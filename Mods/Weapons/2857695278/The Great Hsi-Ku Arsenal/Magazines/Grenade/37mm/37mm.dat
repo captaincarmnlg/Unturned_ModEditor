@@ -1,0 +1,34 @@
+GUID 2857822a923f4efe8181861d8eb215eb
+Type Magazine
+Rarity Epic
+ID 38629
+
+Size_X 1
+Size_Y 1
+Size_Z 0.225
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 753
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 67 
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 73
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Build 30
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 38629
+Blueprint_1_Supply_0_Amount 6
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 38440
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 27
+
+Paintable

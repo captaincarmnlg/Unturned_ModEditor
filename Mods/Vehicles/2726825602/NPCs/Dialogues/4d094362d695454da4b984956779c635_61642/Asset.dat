@@ -1,0 +1,68 @@
+﻿// Made in NPC Maker by BowieD
+GUID 4d094362d695454da4b984956779c635
+Type Dialogue
+ID 62442
+Messages 1
+Message_0_Pages 1
+Responses 3
+Response_0_Rewards 4
+Response_0_Reward_0_Type Item
+Response_0_Reward_0_ID 285
+Response_0_Reward_0_Amount 5
+Response_0_Reward_0_Auto_Equip False
+
+Response_0_Reward_1_Type Item
+Response_0_Reward_1_ID 61
+Response_0_Reward_1_Amount 8
+Response_0_Reward_1_Auto_Equip False
+
+Response_0_Reward_2_Type Item
+Response_0_Reward_2_ID 71
+Response_0_Reward_2_Amount 10
+Response_0_Reward_2_Auto_Equip False
+
+Response_0_Reward_3_Type Item
+Response_0_Reward_3_ID 138
+Response_0_Reward_3_Amount 1
+Response_0_Reward_3_Auto_Equip False
+
+Response_1_Rewards 3
+Response_1_Reward_0_Type Item
+Response_1_Reward_0_ID 285
+Response_1_Reward_0_Amount 5
+Response_1_Reward_0_Auto_Equip False
+
+Response_1_Reward_1_Type Item
+Response_1_Reward_1_ID 67
+Response_1_Reward_1_Amount 7
+Response_1_Reward_1_Auto_Equip False
+
+Response_1_Reward_2_Type Item
+Response_1_Reward_2_ID 68
+Response_1_Reward_2_Amount 3
+Response_1_Reward_2_Auto_Equip False
+
+Response_2_Rewards 5
+Response_2_Reward_0_Type Item
+Response_2_Reward_0_ID 285
+Response_2_Reward_0_Amount 6
+Response_2_Reward_0_Auto_Equip False
+
+Response_2_Reward_1_Type Item
+Response_2_Reward_1_ID 67
+Response_2_Reward_1_Amount 7
+Response_2_Reward_1_Auto_Equip False
+
+Response_2_Reward_2_Type Item
+Response_2_Reward_2_ID 68
+Response_2_Reward_2_Amount 4
+Response_2_Reward_2_Auto_Equip False
+
+Response_2_Reward_3_Type Item
+Response_2_Reward_3_ID 65
+Response_2_Reward_3_Amount 3
+Response_2_Reward_3_Auto_Equip False
+
+Response_2_Reward_4_Type Experience
+Response_2_Reward_4_Value 1000000
+

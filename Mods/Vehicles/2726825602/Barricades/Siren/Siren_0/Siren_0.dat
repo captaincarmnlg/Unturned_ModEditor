@@ -1,0 +1,18 @@
+GUID e059d65712e84f77a6e72a3ea318d8cc
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Campfire
+ID 62509
+
+Size_X 2
+Size_Y 1
+Size_Z 0.4
+
+Health 200
+Range 4
+Radius 0.6
+Offset 0.7
+
+Explosion 19
+Vulnerable

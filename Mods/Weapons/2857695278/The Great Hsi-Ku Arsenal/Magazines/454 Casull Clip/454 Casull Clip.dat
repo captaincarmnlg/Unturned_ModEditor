@@ -1,0 +1,17 @@
+GUID 4e9071756805448eb1cb5c9310a46fce
+Type Magazine
+Rarity Epic
+ID 38837 
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 6
+Count_Min 2
+Count_Max 5
+
+Calibers 1
+Caliber_0 777
+
+Tracer 48

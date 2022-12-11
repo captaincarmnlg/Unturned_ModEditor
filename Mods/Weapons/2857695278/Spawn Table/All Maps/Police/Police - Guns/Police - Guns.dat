@@ -1,0 +1,36 @@
+GUID 3257f84bcbd043568edd049e9dfddb47
+Type Spawn
+ID 3700
+
+Roots 14
+Root_0_Spawn_ID 95
+Root_1_Spawn_ID 95
+Root_2_Spawn_ID 638
+Root_3_Spawn_ID 759
+Root_4_Spawn_ID 761
+Root_5_Spawn_ID 1037
+Root_6_Spawn_ID 2071
+Root_7_Spawn_ID 9002
+Root_8_Spawn_ID 6612
+Root_9_Spawn_ID 5016
+Root_10_Spawn_ID 57074
+Root_11_Spawn_ID 7254
+Root_12_Spawn_ID 59033
+Root_13_Spawn_ID 6612
+
+Root_0_Weight 300
+Root_1_Weight 300
+Root_2_Weight 300
+Root_3_Weight 300
+Root_4_Weight 300
+Root_5_Weight 300
+Root_6_Weight 300
+Root_7_Weight 300
+Root_8_Weight 300
+Root_9_Weight 300
+Root_10_Weight 300
+Root_11_Weight 300
+Root_12_Weight 300
+Root_13_Weight 300
+
+Tables xx

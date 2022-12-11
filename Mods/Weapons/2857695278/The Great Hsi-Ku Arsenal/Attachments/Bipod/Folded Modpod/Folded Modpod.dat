@@ -1,0 +1,26 @@
+GUID e8f6c00fcd40439bbf6caa28cf2cc392
+Type Grip
+Rarity Epic
+ID 38464
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Recoil_X 0.6
+Recoil_Y 0.6
+
+Spread 0.4
+Sway 0.5
+Shake 0.4
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 38464
+Blueprint_0_Product 38419
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+
+Bipod
+Paintable

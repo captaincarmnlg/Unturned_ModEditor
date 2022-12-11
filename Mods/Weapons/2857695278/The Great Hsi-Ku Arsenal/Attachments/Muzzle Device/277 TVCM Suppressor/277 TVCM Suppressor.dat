@@ -1,0 +1,32 @@
+GUID 030e5d113cca4566a068c3a206cc582d
+Type Barrel
+Rarity Epic
+ID 39064
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Calibers 1
+Caliber_0 781
+
+Silenced 
+Volume 0.3
+Durability 3
+
+Quality_Min 90
+Quality_Max 100
+
+Ballistic_Drop 1.1
+
+Paintable
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27

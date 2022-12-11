@@ -1,0 +1,101 @@
+﻿// Made in NPC Maker by BowieD
+GUID f1033038a2d14e7cb5f64b227ad50bd9
+Type Dialogue
+ID 62423
+Messages 1
+Message_0_Pages 5
+Responses 4
+Response_0_Dialogue 62425
+Response_0_Rewards 7
+Response_0_Reward_0_Type Item
+Response_0_Reward_0_ID 76
+Response_0_Reward_0_Amount 1
+Response_0_Reward_0_Auto_Equip False
+
+Response_0_Reward_1_Type Item
+Response_0_Reward_1_ID 285
+Response_0_Reward_1_Amount 10
+Response_0_Reward_1_Auto_Equip False
+
+Response_0_Reward_2_Type Item
+Response_0_Reward_2_ID 67
+Response_0_Reward_2_Amount 5
+Response_0_Reward_2_Auto_Equip False
+
+Response_0_Reward_3_Type Item
+Response_0_Reward_3_ID 62501
+Response_0_Reward_3_Amount 1
+Response_0_Reward_3_Auto_Equip False
+
+Response_0_Reward_4_Type Item
+Response_0_Reward_4_ID 62504
+Response_0_Reward_4_Amount 1
+Response_0_Reward_4_Auto_Equip False
+
+Response_0_Reward_5_Type Item
+Response_0_Reward_5_ID 62506
+Response_0_Reward_5_Amount 1
+Response_0_Reward_5_Auto_Equip False
+
+Response_0_Reward_6_Type Item
+Response_0_Reward_6_ID 62507
+Response_0_Reward_6_Amount 1
+Response_0_Reward_6_Auto_Equip False
+
+Response_1_Rewards 2
+Response_1_Reward_0_Type Item
+Response_1_Reward_0_ID 285
+Response_1_Reward_0_Amount 10
+Response_1_Reward_0_Auto_Equip False
+
+Response_1_Reward_1_Type Item
+Response_1_Reward_1_ID 67
+Response_1_Reward_1_Amount 5
+Response_1_Reward_1_Auto_Equip False
+
+Response_2_Rewards 8
+Response_2_Reward_0_Type Item
+Response_2_Reward_0_ID 62500
+Response_2_Reward_0_Amount 1
+Response_2_Reward_0_Auto_Equip False
+
+Response_2_Reward_1_Type Item
+Response_2_Reward_1_ID 62501
+Response_2_Reward_1_Amount 1
+Response_2_Reward_1_Auto_Equip False
+
+Response_2_Reward_2_Type Item
+Response_2_Reward_2_ID 62502
+Response_2_Reward_2_Amount 1
+Response_2_Reward_2_Auto_Equip False
+
+Response_2_Reward_3_Type Item
+Response_2_Reward_3_ID 62503
+Response_2_Reward_3_Amount 1
+Response_2_Reward_3_Auto_Equip False
+
+Response_2_Reward_4_Type Item
+Response_2_Reward_4_ID 62504
+Response_2_Reward_4_Amount 1
+Response_2_Reward_4_Auto_Equip False
+
+Response_2_Reward_5_Type Item
+Response_2_Reward_5_ID 62505
+Response_2_Reward_5_Amount 1
+Response_2_Reward_5_Auto_Equip False
+
+Response_2_Reward_6_Type Item
+Response_2_Reward_6_ID 62506
+Response_2_Reward_6_Amount 1
+Response_2_Reward_6_Auto_Equip False
+
+Response_2_Reward_7_Type Item
+Response_2_Reward_7_ID 62507
+Response_2_Reward_7_Amount 1
+Response_2_Reward_7_Auto_Equip False
+
+Response_3_Rewards 1
+Response_3_Reward_0_Type Vehicle
+Response_3_Reward_0_ID 62441
+Response_3_Reward_0_Spawnpoint 61595
+

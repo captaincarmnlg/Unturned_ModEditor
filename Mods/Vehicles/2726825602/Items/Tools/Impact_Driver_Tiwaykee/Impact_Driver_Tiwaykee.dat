@@ -1,0 +1,18 @@
+GUID 0d418c4163814ed99db2a94cc14d03de
+Type Tire
+Rarity Uncommon
+Useable Tire
+ID 62404
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Mode Remove
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 62404
+Blueprint_0_Product 67
+Blueprint_0_Products 3
+Blueprint_0_Build 27

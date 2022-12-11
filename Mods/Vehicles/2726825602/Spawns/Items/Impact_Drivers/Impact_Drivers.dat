@@ -1,0 +1,30 @@
+GUID 0cf5f85454ab4b5bb6c27402f55895f1
+Type Spawn
+ID 62401
+
+Roots 6
+Root_0_Spawn_ID 180
+Root_0_Weight 10
+Root_1_Spawn_ID 170
+Root_1_Weight 10
+Root_2_Spawn_ID 173
+Root_2_Weight 10
+Root_3_Spawn_ID 226
+Root_3_Weight 10
+Root_4_Spawn_ID 167
+Root_4_Weight 10
+Root_5_Spawn_ID 153
+Root_5_Weight 10
+Root_6_Spawn_ID 164
+Root_6_Weight 25
+
+Tables 4
+//Impact Drivers
+Table_0_Asset_ID 62403
+Table_0_Weight 5
+Table_1_Asset_ID 62404
+Table_1_Weight 5
+Table_2_Asset_ID 62405
+Table_2_Weight 5
+Table_3_Asset_ID 62406
+Table_3_Weight 5

@@ -1,0 +1,527 @@
+ManifestFileVersion: 0
+CRC: 1758237065
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0dd6b6a4e5d23a954c408bd9257f0916
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b3dbe40093e27f0d49315298f71372f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/1animal/Roar_0.mp3
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/8item_bottom/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/9item_poncho/Vest.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/3carcass_meat/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/9item_poncho/Vest.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/4carcass_bone/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/4carcass_bone/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/8item_bottom/Material.mat
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/4carcass_bone/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/1animal/Roar_1.mp3
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/2carcass_skin/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/2carcass_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/14trophy_head_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/14trophy_head_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/5pelt/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/16meat_raw/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/5pelt/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/8item_bottom/Material.mat
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/14trophy_head_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/2carcass_skin/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/14trophy_head_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/7item_top/Shirt.png
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/1animal/Roar_0.mp3
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/10item_pack/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/3carcass_meat/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/11trophy_carpet/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/1animalalive/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/5pelt/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/12trophy_carcass_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/5pelt/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/12trophy_carcass_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/8item_bottom/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/7item_top/Material.mat
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/15trophy_head_bone/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/7item_top/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/11trophy_carpet/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/8item_bottom/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/11trophy_carpet/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/5pelt/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/17meat_cooked/Use.mp3
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/14trophy_head_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/10item_pack/Backpack.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/11trophy_carpet/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/12trophy_carcass_skin/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/14trophy_head_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/2carcass_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/7item_top/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/13trophy_carcass_bone/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/7item_top/Material.mat
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/13trophy_carcass_bone/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/11trophy_carpet/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/13trophy_carcass_bone/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/5pelt/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/7item_top/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/15trophy_head_bone/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/11trophy_carpet/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/1animal/Animal_Server.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/2carcass_skin/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/12trophy_carcass_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/15trophy_head_bone/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/9item_poncho/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/1animal/Animal_Dedicated.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/16milk/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/12trophy_carcass_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/14trophy_head_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/9item_poncho/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/12trophy_carcass_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/4carcass_bone/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/1animal/Ragdoll.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/3carcass_meat/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/2carcass_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/12trophy_carcass_skin/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/5pelt/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/14trophy_head_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/3carcass_meat/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/1animal/Panic_2.mp3
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/13trophy_carcass_bone/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/2carcass_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/7item_top/Material.mat
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/9item_poncho/Vest.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/1animalalive/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/2carcass_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/17meat_cooked/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/12trophy_carcass_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/15trophy_head_bone/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/11trophy_carpet/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/4carcass_bone/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/13trophy_carcass_bone/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/9item_poncho/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/6hide/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/12trophy_carcass_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/8item_bottom/Pants.png
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/2carcass_skin/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/3carcass_meat/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/14trophy_head_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/13trophy_carcass_bone/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/4carcass_bone/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/11trophy_carpet/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/11trophy_carpet/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/15trophy_head_bone/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/5pelt/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/5pelt/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/1animalalive/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/9item_poncho/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/5pelt/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/12trophy_carcass_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/2carcass_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/9item_poncho/Vest.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/5pelt/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/1animalalive/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/12trophy_carcass_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/3carcass_meat/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/5pelt/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/11trophy_carpet/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/15trophy_head_bone/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/4carcass_bone/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/1animal/Ragdoll.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/14trophy_head_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/11trophy_carpet/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/11trophy_carpet/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/12trophy_carcass_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/7item_top/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/7item_top/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/14trophy_head_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/8item_bottom/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/5pelt/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/10item_pack/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/1animal/Animal_Server.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/11trophy_carpet/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/8item_bottom/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/10item_pack/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/14trophy_head_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/1animal/Animal_Server.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/2carcass_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/5pelt/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/15trophy_head_bone/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/11trophy_carpet/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/8item_bottom/Pants.png
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/14trophy_head_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/13trophy_carcass_bone/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/7item_top/Shirt.png
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/16meat_raw/Use.mp3
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/5pelt/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/1animalalive/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/10item_pack/cowpack.fbx
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/12trophy_carcass_skin/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/1animalalive/alive_cow.controller
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/10item_pack/Backpack.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/7item_top/Shirt.png
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/5pelt/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/11trophy_carpet/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/11trophy_carpet/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/9item_poncho/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/2carcass_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/16milk/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/8item_bottom/Material.mat
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/4carcass_bone/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/5pelt/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/14trophy_head_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/1animal/Ragdoll.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/1animal/Animal_Client.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/9item_poncho/Vest.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/13trophy_carcass_bone/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/13trophy_carcass_bone/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/2carcass_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/4carcass_bone/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/11trophy_carpet/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/2carcass_skin/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/12trophy_carcass_skin/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/2carcass_skin/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/12trophy_carcass_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/3carcass_meat/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/1animal/Animal_Dedicated.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/8item_bottom/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/11trophy_carpet/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/3carcass_meat/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/2carcass_skin/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/5pelt/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/15trophy_head_bone/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/1animal/Roar_2.mp3
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/4carcass_bone/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/11trophy_carpet/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/14trophy_head_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/3carcass_meat/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/12trophy_carcass_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/11trophy_carpet/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/3carcass_meat/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/13trophy_carcass_bone/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/5pelt/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/2carcass_skin/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/8item_bottom/Pants.png
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/1animal/Panic_0.wav
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/9item_poncho/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/7item_top/Shirt.png
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/17meat_cooked/Use.mp3
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/12trophy_carcass_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/13trophy_carcass_bone/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/12trophy_carcass_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/8item_bottom/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/4carcass_bone/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/12trophy_carcass_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/6hide/New Material.mat
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/11trophy_carpet/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/4carcass_bone/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/2carcass_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/2carcass_skin/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/4carcass_bone/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/7item_top/Material.mat
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/4carcass_bone/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/7item_top/Shirt.png
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/8item_bottom/Material.mat
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/13trophy_carcass_bone/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/4carcass_bone/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/8item_bottom/Pants.png
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/9item_poncho/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/3carcass_meat/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/15trophy_head_bone/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/8item_bottom/Pants.png
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/9item_poncho/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/14trophy_head_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/2carcass_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/13trophy_carcass_bone/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/10item_pack/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/16meat_raw/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/12trophy_carcass_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/14trophy_head_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/3carcass_meat/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/2carcass_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/15trophy_head_bone/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/2carcass_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/3carcass_meat/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/2carcass_skin/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/5pelt/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/17meat_cooked/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/14trophy_head_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/3carcass_meat/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/10item_pack/Animations.prefab
+- "Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/10item_pack/\u0411\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439
+  1.png"
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/2carcass_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/13trophy_carcass_bone/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/1animal/Animal_Dedicated.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/3carcass_meat/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/13trophy_carcass_bone/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/2carcass_skin/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/15trophy_head_bone/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/2carcass_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/2carcass_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/1animal/Animal_Server.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/13trophy_carcass_bone/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/1animal/Roar_2.mp3
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/15trophy_head_bone/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/14trophy_head_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/8item_bottom/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/2carcass_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/2carcass_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/3carcass_meat/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/12trophy_carcass_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/1animal/Ragdoll.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/15trophy_head_bone/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/7item_top/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/4carcass_bone/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/13trophy_carcass_bone/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/11trophy_carpet/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/7item_top/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/12trophy_carcass_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/5pelt/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/2carcass_skin/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/10item_pack/Backpack.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/9item_poncho/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/4carcass_bone/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/2carcass_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/3carcass_meat/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/7item_top/Material.mat
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/10item_pack/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/10item_pack/New
+  Material.mat
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/13trophy_carcass_bone/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/15trophy_head_bone/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/3carcass_meat/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/8item_bottom/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/4carcass_bone/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/8item_bottom/Pants.png
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/3carcass_meat/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/13trophy_carcass_bone/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/10item_pack/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/5pelt/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/7item_top/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/4carcass_bone/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/11trophy_carpet/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/1animal/Animal_Client.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/14trophy_head_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/13trophy_carcass_bone/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/5pelt/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/11trophy_carpet/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/2carcass_skin/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/16meat_raw/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/13trophy_carcass_bone/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/1animal/Animal_Server.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/12trophy_carcass_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/4carcass_bone/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/3carcass_meat/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/9item_poncho/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/4carcass_bone/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/8item_bottom/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/4carcass_bone/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/11trophy_carpet/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/2carcass_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/4carcass_bone/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/10item_pack/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/2carcass_skin/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/15trophy_head_bone/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/3carcass_meat/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/16meat_raw/Use.mp3
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/14trophy_head_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/4carcass_bone/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/9item_poncho/Vest.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/4carcass_bone/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/4carcass_bone/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/17meat_cooked/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/3carcass_meat/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/3carcass_meat/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/5pelt/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/2carcass_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/5pelt/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/3carcass_meat/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/12trophy_carcass_skin/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/10item_pack/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/5pelt/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/4carcass_bone/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/3carcass_meat/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/5pelt/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/7item_top/Material.mat
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/1animal/Animal_Client.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/5pelt/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/12trophy_carcass_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/13trophy_carcass_bone/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/14trophy_head_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/17meat_cooked/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/5pelt/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/3carcass_meat/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/10item_pack/Backpack.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/7item_top/Shirt.png
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/1animal/Animal_Dedicated.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/4carcass_bone/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/12trophy_carcass_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/5pelt/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/16meat_raw/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/1animal/Animal_Client.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/1animal/Animal_Dedicated.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/3carcass_meat/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/10item_pack/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/12trophy_carcass_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/1animal/Panic_0.mp3
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/5pelt/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/15trophy_head_bone/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/3carcass_meat/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/5pelt/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/1animal/Animal_Dedicated.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/9item_poncho/Cow
+  poncho.fbx
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/1animal/Animal_Client.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/2carcass_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/11trophy_carpet/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/13trophy_carcass_bone/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/5pelt/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/7item_top/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/11trophy_carpet/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/1animalalive/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/5pelt/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/14trophy_head_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/11trophy_carpet/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/12trophy_carcass_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/3carcass_meat/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/11trophy_carpet/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/10item_pack/Backpack.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/4carcass_bone/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/1animal/Panic_1.mp3
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/7item_top/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/6hide/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/5pelt/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/8item_bottom/Material.mat
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/12trophy_carcass_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/14trophy_head_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/1animal/Animal_Client.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/5pelt/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/8item_bottom/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/14trophy_head_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/4carcass_bone/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/1animal/Animal_Client.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/7item_top/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/6hide/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/6hide/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/13trophy_carcass_bone/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/3carcass_meat/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/12trophy_carcass_skin/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/2carcass_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/4carcass_bone/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/13trophy_carcass_bone/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/4carcass_bone/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/1animal/Roar_1.mp3
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/4carcass_bone/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/3carcass_meat/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/9item_poncho/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/2carcass_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/2carcass_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/5pelt/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/1animal/Panic_1.wav
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/10item_pack/Backpack.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/8item_bottom/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/15trophy_head_bone/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/7item_top/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/15trophy_head_bone/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/1animal/Animal_Server.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/5pelt/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/2carcass_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/1animalalive/alive.anim
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/14trophy_head_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/10item_pack/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/12trophy_carcass_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/6hide/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/10item_pack/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/1animal/Ragdoll.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/5pelt/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/15trophy_head_bone/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/3carcass_meat/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/15trophy_head_bone/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/13trophy_carcass_bone/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/14trophy_head_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/8item_bottom/Material.mat
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/13trophy_carcass_bone/Animations.prefab
+- "Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/6hide/\u0411\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.png"
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/13trophy_carcass_bone/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/11trophy_carpet/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/3carcass_meat/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/1animal/Animal_Dedicated.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/13trophy_carcass_bone/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/2carcass_skin/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/9item_poncho/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/6hide/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/4carcass_bone/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/3carcass_meat/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/1animal/Ragdoll.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/5pelt/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/14trophy_head_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/15trophy_head_bone/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/11trophy_carpet/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/3carcass_meat/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/15trophy_head_bone/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/5pelt/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/1animal/Animal_Server.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Wolf/3carcass_meat/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/15trophy_head_bone/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/2carcass_skin/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/13trophy_carcass_bone/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/12trophy_carcass_skin/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/11trophy_carpet/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/16milk/Use.mp3
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/12trophy_carcass_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/15trophy_head_bone/Clip.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Moose/11trophy_carpet/Nav.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Cow/11trophy_carpet/Animations.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/1animal/Panic_2.wav
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/4carcass_bone/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/1animal/Ragdoll.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Bear/12trophy_carcass_skin/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Pig/5pelt/Barricade.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Reindeer/11trophy_carpet/Item.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/4carcass_bone/Use.prefab
+- Assets/AdvancedAnimals/AdvancedAnimals_Fortune_Intelligence/Deer/12trophy_carcass_skin/Nav.prefab
+Dependencies: []

@@ -1,0 +1,33 @@
+"Metadata"
+{
+	"GUID" "Random GUID here"
+	"Type" "SDG.Unturned.VehiclePhysicsProfileAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Root_Mass" "" { mass of the vehicle }
+	"Wheel_Mass" "" { mass of the wheels }
+	"Root_Drag_Multiplier" "" { tendency for the vehicle to stop}
+	"Wheel_Suspension_Damper" "" { suspension shit }
+	"Wheel_Suspension_Force" "" { suspension shit }
+	"Wheel_Damping_Rate" "" { the lower it is, the faster the car }
+	"Wheel_Friction_Sideways"
+	{
+		"Extremum_Slip" "1"
+		"Extremum_Value" "1" { lower value, less turning grip }
+		"Asymptote_Slip" "1" { useless? }
+		"Asymptote_Value" "1" { useless? }
+		"Stiffness" "1"
+	}
+	"Wheel_Friction_Forward"
+	{
+		"Extremum_Slip" "1"
+		"Extremum_Value" "1"
+		"Asymptote_Slip" "1"
+		"Asymptote_Value" "1"
+		"Stiffness" "1"
+	}
+	"Brake_Torque_Multiplier" "1"
+ 	"Wheel_Drive_Model" "All"
+	"Wheel_Brake_Model" "All"
+}

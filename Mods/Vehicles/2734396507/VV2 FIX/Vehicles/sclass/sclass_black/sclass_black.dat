@@ -1,0 +1,33 @@
+GUID 25c1d05283154e4085ce48cae02cb387
+Type Vehicle
+Rarity Rare
+ID 37120
+
+Physics_Profile dd5b9ad652da4e61b76a946d6365878a
+Fuel_Burn_Rate 1.4
+
+Speed_Min -6
+Speed_Max 21
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 28
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1400
+
+Health_Min 350
+Health_Max 450
+Health 850
+
+Cam_Passenger_Offset -0.1
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 4
+
+Explosion 20
+
+-
+Valid_Speed_Horizontal 60

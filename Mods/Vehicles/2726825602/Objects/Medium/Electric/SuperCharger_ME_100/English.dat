@@ -1,0 +1,5 @@
+Name [VV3] Supercharger w/Money Expansion $100
+
+Interactability_Condition_0 Requires <color=#4E5D8E>100$</color> 
+
+Interact Recharge your car for <color=#4E5D8E>100$</color>  [{0}]

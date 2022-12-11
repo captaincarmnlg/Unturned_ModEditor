@@ -1,0 +1,23 @@
+GUID 6b999727aa134675b6e893d60f5ac0ba
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 38489
+
+Size_X 1
+Size_Y 2
+Size_Z 0.45
+
+Player_Damage 275
+Zombie_Damage 275
+Animal_Damage 275
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 100
+Resource_Damage 1000
+Object_Damage 500
+
+Range 10
+Explosion 34
+
+Explosive

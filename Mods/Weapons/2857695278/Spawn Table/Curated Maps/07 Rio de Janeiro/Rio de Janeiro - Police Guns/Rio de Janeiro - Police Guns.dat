@@ -1,0 +1,24 @@
+GUID fde654577a7d44ebab9f5262aae5c3fe
+Type Spawn
+ID 3876
+
+Roots 1
+Root_0_Spawn_ID 5016
+Root_0_Weight 300
+
+Tables 7
+Table_0_Asset_ID 38176
+Table_1_Asset_ID 38330
+Table_2_Asset_ID 38329
+Table_3_Asset_ID 38327
+Table_4_Asset_ID 38963
+Table_5_Asset_ID 38821
+Table_6_Asset_ID 38357
+
+Table_0_Weight 15
+Table_1_Weight 10
+Table_2_Weight 20
+Table_3_Weight 15
+Table_4_Weight 20
+Table_5_Weight 15
+Table_6_Weight 15

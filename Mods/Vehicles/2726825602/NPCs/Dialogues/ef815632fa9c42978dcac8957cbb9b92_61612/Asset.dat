@@ -1,0 +1,19 @@
+﻿// Made in NPC Maker by BowieD
+GUID ef815632fa9c42978dcac8957cbb9b92
+Type Dialogue
+ID 62412
+Messages 1
+Message_0_Pages 1
+Responses 2
+Response_0_Dialogue 62413
+Response_0_Rewards 1
+Response_0_Reward_0_Type Vehicle
+Response_0_Reward_0_ID 62416
+Response_0_Reward_0_Spawnpoint 61598
+
+Response_1_Dialogue 62413
+Response_1_Rewards 1
+Response_1_Reward_0_Type Vehicle
+Response_1_Reward_0_ID 62406
+Response_1_Reward_0_Spawnpoint 61598
+

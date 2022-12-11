@@ -1,0 +1,11 @@
+GUID b2bff3993789436f93936b03665c746e
+Type Spawn
+ID 3918
+
+Roots 1
+Root_0_Spawn_ID 59136
+Root_0_Weight 300
+
+Tables 1
+Table_0_Asset_ID 39026
+Table_0_Weight 15

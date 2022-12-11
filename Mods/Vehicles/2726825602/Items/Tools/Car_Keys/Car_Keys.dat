@@ -1,0 +1,16 @@
+GUID e526677d2f97478ea93691448709e869
+Type Tool
+Rarity Uncommon
+Useable Carlockpick
+ID 62402
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 62402
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 27

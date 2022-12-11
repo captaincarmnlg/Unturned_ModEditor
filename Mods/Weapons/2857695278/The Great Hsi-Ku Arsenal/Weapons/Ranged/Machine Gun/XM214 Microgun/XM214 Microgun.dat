@@ -1,0 +1,82 @@
+GUID e4bce218856f4adcbecb2e0cd97afd0f
+Type Gun
+Rarity Mythical
+Useable Gun
+Slot Primary
+ID 38667
+
+Size_X 4
+Size_Y 3
+Size_Z 0.555
+Size2_Z 0.725
+
+Magazine 39016
+
+Hook_Tactical
+
+Ammo_Min 30
+Ammo_Max 150
+
+Auto
+
+Caliber 12
+
+Range 125
+Firerate 0
+Replace 0.625
+Action Minigun
+
+Player_Damage 50
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 115
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 50
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 30
+Structure_Damage 30
+Vehicle_Damage 50
+Resource_Damage 30
+Object_Damage 50
+
+Durability 0.04
+
+Spread_Aim 0.155
+Spread_Hip 0.15
+
+Recoil_Min_Y 0.2
+Recoil_Max_Y 0.6
+
+Shake_Min_X -0.01
+Shake_Min_Y 0.01
+Shake_Min_Z -0.025
+Shake_Max_X 0.01
+Shake_Max_Y -0.01
+Shake_Max_Z -0.05
+
+Muzzle 4
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 38667
+Blueprint_1_Product 67
+Blueprint_1_Products 6
+Blueprint_1_Build 27

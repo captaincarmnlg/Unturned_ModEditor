@@ -1,0 +1,29 @@
+GUID 123d5f22ffe44e09819a18bf86f11a4b
+Type Magazine
+Rarity Uncommon
+ID 38968
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Calibers 1
+Caliber_0 708
+
+Range 3
+Player_Damage 5
+Zombie_Damage 50
+Animal_Damage 50
+Barricade_Damage 5
+Structure_Damage 5
+Vehicle_Damage 15
+Resource_Damage 50
+Object_Damage 15
+Explosion 61
+Explosive
+
+Tracer 48

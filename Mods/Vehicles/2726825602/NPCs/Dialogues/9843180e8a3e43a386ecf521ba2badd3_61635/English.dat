@@ -1,0 +1,5 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 I've got you 2 options, first one is that you can use the Mitz Pajero, and a trailer to transport your logistics. Be aware, the trailer DOES NOT WORK IN MULTIPLAYER, you can try but it won't go well. To attach the car to the trailer, just line it up perfectly and press Ctrl inside the car.
+Message_0_Page_1 The other option is just a Market Expansion truck that we've been provided. Proper trucks will be added later to VV3.
+Response_0 Pajero and trailer.
+Response_1 Market Expansion Truck

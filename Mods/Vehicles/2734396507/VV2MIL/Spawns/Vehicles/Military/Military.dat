@@ -1,0 +1,55 @@
+GUID 3d0e09e8fcbc4b54bf35f053ce7724f9
+Type Spawn
+ID 36250
+
+Roots 15
+Root_0_Spawn_ID 409
+Root_0_Weight 12
+Root_1_Spawn_ID 308
+Root_1_Weight 12
+Root_2_Spawn_ID 118
+Root_2_Weight 12
+Root_3_Spawn_ID 410
+Root_3_Weight 12
+Root_4_Spawn_ID 411
+Root_4_Weight 12
+Root_5_Spawn_ID 307
+Root_5_Weight 12
+Root_6_Spawn_ID 412
+Root_6_Weight 12
+Root_7_Spawn_ID 307
+Root_7_Weight 12
+Root_8_Spawn_ID 309
+Root_8_Weight 12
+Root_9_Spawn_ID 310
+Root_9_Weight 12
+Root_10_Spawn_ID 311
+Root_10_Weight 12
+Root_11_Spawn_ID 589
+Root_11_Weight 12
+Root_12_Spawn_ID 119
+Root_12_Weight 12
+Root_13_Spawn_ID 145
+Root_13_Weight 12
+Root_14_Spawn_ID 136
+Root_14_Weight 12
+
+Tables 8
+//Humvee
+Table_0_Asset_ID 35000
+Table_0_Weight 5
+Table_1_Asset_ID 35001
+Table_1_Weight 5
+Table_2_Asset_ID 35002
+Table_2_Weight 5
+Table_3_Asset_ID 35003
+Table_3_Weight 5
+//Inkas
+Table_4_Asset_ID 35005
+Table_4_Weight 5
+Table_5_Asset_ID 35006
+Table_5_Weight 5
+Table_6_Asset_ID 35007
+Table_6_Weight 5
+Table_7_Asset_ID 35008
+Table_7_Weight 5

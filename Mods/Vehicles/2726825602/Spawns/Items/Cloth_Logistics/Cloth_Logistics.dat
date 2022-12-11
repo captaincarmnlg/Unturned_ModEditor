@@ -1,0 +1,14 @@
+GUID 092d436fdae7497d8367f6f920fe308b
+Type Spawn
+ID 62420
+
+Roots 1
+Root_0_Spawn_ID 262
+Root_0_Weight 15
+
+Tables 2
+//Cloth Logistics
+Table_0_Asset_ID 62420
+Table_0_Weight 15
+Table_1_Asset_ID 62421
+Table_1_Weight 2

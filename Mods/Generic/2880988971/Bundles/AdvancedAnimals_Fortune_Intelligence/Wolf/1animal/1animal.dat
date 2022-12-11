@@ -1,0 +1,19 @@
+GUID 63954e77f8bd4838ac614ed649d76f0c
+Type Animal
+ID 37701
+
+Speed_Run 12
+Speed_Walk 4
+
+Behaviour Offense
+
+Health 50
+Regen 0.5
+Damage 10
+
+Reward_ID 37700
+Reward_XP 30
+Reward_Min 1
+Reward_Max 1
+
+Roars 3

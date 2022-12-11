@@ -1,0 +1,21 @@
+GUID 50ce20df8a7b45d395e94ad1881754b5
+Type Spawn
+ID 36018
+
+Roots 6
+Root_0_Spawn_ID 302
+Root_0_Weight 500
+Root_1_Spawn_ID 724
+Root_1_Weight 500
+Root_2_Spawn_ID 303
+Root_2_Weight 500
+Root_3_Spawn_ID 586
+Root_3_Weight 500
+Root_4_Spawn_ID 405
+Root_4_Weight 500
+Root_5_Spawn_ID 2126
+Root_5_Weight 500
+
+Tables 1
+Table_0_Asset_ID 62578
+Table_0_Weight 10

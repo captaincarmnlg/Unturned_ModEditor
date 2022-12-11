@@ -1,0 +1,32 @@
+GUID fb74922f9c8f47e29c920527104be604
+Type Vehicle
+Rarity Epic
+ID 35814
+
+Speed_Min -2
+Speed_Max 30
+
+Steer_Min 90
+Steer_Max 90
+
+Fuel 6500
+
+Health_Min 1100
+Health_Max 1200
+Health 2250
+
+Exit 3
+
+Cam_Follow_Distance 16.5
+
+LockMouse
+Engine Helicopter
+
+Trunk_Storage_X 7
+Trunk_Storage_Y 7
+
+Explosion 20
+Invulnerable
+Tires_Invulnerable
+
+Valid_Speed_Horizontal 60

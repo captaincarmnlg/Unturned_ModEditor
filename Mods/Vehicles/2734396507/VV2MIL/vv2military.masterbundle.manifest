@@ -1,0 +1,119 @@
+ManifestFileVersion: 0
+CRC: 1196408375
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6120183350484848d098f3448141d388
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f1ed726a3b052094ec40764e4f4aba6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6e9242e5cb8b78429e422f41de137fd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 146
+  Script: {instanceID: 0}
+- Class: 153
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 1773428102
+  Script: {instanceID: 0}
+Assets:
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_black/Trunk_Model.controller
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Inkas/Inkas_brown/Clip.prefab
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_green/Humvee Trunk Open.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_blue/Clip.prefab
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_brown/Horn.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_green/Ignition.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_brown/Vehicle.prefab
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_blue/Humvee Trunk Close.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_brown/Trunk_Model.controller
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Inkas/Inkas_green/Vehicle.prefab
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Inkas/Inkas_blue/Vehicle.prefab
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_green/Trunk_open.anim
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_blue/Vehicle.prefab
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_brown/Humvee Trunk Open.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_green/Clip.prefab
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_green/Trunk_close.anim
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Inkas/Inkas_brown/Ignition.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_green/Horn.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_brown/Humvee Trunk Close.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_black/Ignition.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_black/Trunk_close.anim
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Inkas/Inkas_black/Ignition.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_black/Humvee Trunk Close.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_brown/Clip.prefab
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Inkas/Inkas_brown/Vehicle.prefab
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_brown/Ignition.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_blue/Trunk_open.anim
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_brown/Trunk_open.anim
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_green/Humvee Trunk Close.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_brown/Trunk_close.anim
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_black/Vehicle.prefab
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_blue/Humvee Trunk Open.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_blue/Trunk_close.anim
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee Idle.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_green/Trunk_Model.controller
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_black/Humvee Trunk Open.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Inkas/Inkas_black/Horn.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_blue/Ignition.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Inkas/Inkas_green/Horn.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Inkas/Inkas_brown/Horn.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_black/Horn.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Inkas/Inkas_green/Ignition.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_black/Clip.prefab
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Inkas/Inkas_green/Clip.prefab
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Inkas/Inkas_black/Clip.prefab
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Inkas/Inkas_blue/Clip.prefab
+- Assets/Vanilla Vehicles 2 Military/Humvee Idle.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_blue/Trunk_Model.controller
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Inkas/Inkas_blue/Horn.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_green/Vehicle.prefab
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_black/Trunk_open.anim
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Inkas/Inkas_black/Vehicle.prefab
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Humvee/Humvee_blue/Horn.mp3
+- Assets/Vanilla Vehicles 2 Military/Vehicles/Inkas/Inkas_blue/Ignition.mp3
+Dependencies: []

@@ -1,0 +1,37 @@
+GUID 89d5cc83b66c4ac38c1b27ed5ffde433
+Type Vehicle
+Rarity Rare
+ID 62806
+
+Physics_Profile fa7dd857a73a42d5978f1f11bb3973fc
+
+Fuel_Burn_Rate 2.3
+
+Speed_Min -10
+Speed_Max 22
+
+Steer_Min 15
+Steer_Max 35
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 2300
+
+Health_Min 350
+Health_Max 450
+Health 2350
+
+BatteryMode_Sirens None
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Explosion 20
+Cam_Passenger_Offset
+
+Valid_Speed_Horizontal 150
+Asset_Bundle_Version 3
+Traction
+Has_Clip_Prefab False

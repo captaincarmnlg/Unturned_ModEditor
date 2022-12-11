@@ -1,0 +1,32 @@
+GUID e6adb4e192ab4783a314896bb6bbf3f3
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Barricade
+ID 62425
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Health 300
+Range 4
+Radius 0.4
+Offset 0.5
+
+Explosion 19
+
+Blueprints 2
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 27
+Blueprint_1_Type Barricade
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 62425
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 67
+Blueprint_1_Output_0_Amount 10
+Blueprint_1_Build 27

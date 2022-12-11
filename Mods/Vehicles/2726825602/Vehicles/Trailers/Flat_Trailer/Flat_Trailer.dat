@@ -1,0 +1,28 @@
+GUID c2af460f9b314a99b1d63137ce0d693c
+Type Vehicle
+Rarity Rare
+ID 62452
+
+Speed_Min -5
+Speed_Max 5
+
+Steer_Min 20
+Steer_Max 32
+
+Brake 32
+
+Health_Min 350
+Health_Max 450
+Health 2000
+
+BatteryMode_Sirens None
+
+Trunk_Storage_X 2
+Trunk_Storage_Y 2
+
+Crawler
+Explosion 20
+Stamina_Powered
+Valid_Speed_Horizontal 60
+Asset_Bundle_Version 3
+Has_Clip_Prefab False

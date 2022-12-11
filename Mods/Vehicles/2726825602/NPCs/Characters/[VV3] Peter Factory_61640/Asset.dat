@@ -1,0 +1,18 @@
+﻿// Made in NPC Maker by BowieD
+GUID d84777092380418eaa9fbd5e2df08285
+ID 62440
+Type NPC
+Shirt 407
+Pants 408
+Vest 408
+Backpack 253
+Hat 407
+Primary 62409
+Equipped Primary
+Face 0
+Beard 3
+Hair 5
+Color_Skin #706049
+Color_Hair #373737
+Pose Stand
+Dialogue 62440

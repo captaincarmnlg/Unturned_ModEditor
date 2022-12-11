@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 1050094064
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09a85d96d5caa39688d497c2e9c19e5b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 47f80179b4dc9011ee21d878cffd3080
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 851463f9b107a3146a0057e73b10cc15, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6e9242e5cb8b78429e422f41de137fd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 146
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Mi2/Mi2_White/Ignition.mp3
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Waterplane/Waterplane_green/Ignition.mp3
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Waterplane/Waterplane_white/Ignition.mp3
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Waterplane/Waterplane_red/Clip.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Mi2/Mi2_Brown/Vehicle.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Mi2/Mi2_Brown/Ignition.mp3
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Mi2/Mi2_Black/Ignition.mp3
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Waterplane/Waterplane_black/Vehicle.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Waterplane/Waterplane_blue/Ignition.mp3
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Waterplane/Waterplane_blue/Vehicle.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Mi2/Mi2_green/Clip.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Mi2/Mi2_White/Clip.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Mi2/Mi2_green/Ignition.mp3
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Waterplane/Waterplane_red/Ignition.mp3
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Mi2/Mi2_Black/Vehicle.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Waterplane/Waterplane_brown/Ignition.mp3
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Mi2/Mi2_Blue/Ignition.mp3
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Waterplane/Waterplane_white/Vehicle.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Mi2/Mi2_Brown/Clip.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Waterplane/Waterplane_red/Vehicle.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Mi2/Mi2_green/Vehicle.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Waterplane/Waterplane_blue/Clip.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Waterplane/Waterplane_brown/Clip.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Mi2/Mi2_Black/Clip.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Mi2/Mi2_White/Vehicle.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Waterplane/Waterplane_brown/Vehicle.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Waterplane/Waterplane_white/Clip.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Waterplane/Waterplane_black/Ignition.mp3
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Waterplane/Waterplane_black/Clip.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Mi2/Mi2_Blue/Clip.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Mi2/Mi2_Blue/Vehicle.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Waterplane/Waterplane_green/Vehicle.prefab
+- Assets/Vanilla Vehicles 2 Air/Vehicles/Waterplane/Waterplane_green/Clip.prefab
+Dependencies: []

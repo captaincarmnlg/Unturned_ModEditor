@@ -1,0 +1,51 @@
+﻿// Made in NPC Maker by BowieD
+GUID 6fea4dfe66004fe586c0d791248f1c1f
+Type Dialogue
+ID 62430
+Messages 1
+Message_0_Pages 4
+Responses 5
+Response_0_Dialogue 62431
+Response_0_Rewards 2
+Response_0_Reward_0_Type Item
+Response_0_Reward_0_ID 285
+Response_0_Reward_0_Amount 85
+Response_0_Reward_0_Auto_Equip False
+
+Response_0_Reward_1_Type Item
+Response_0_Reward_1_ID 62427
+Response_0_Reward_1_Amount 1
+Response_0_Reward_1_Auto_Equip False
+
+Response_1_Dialogue 62432
+Response_1_Rewards 1
+Response_1_Reward_0_Type Item
+Response_1_Reward_0_ID 39
+Response_1_Reward_0_Amount 12
+Response_1_Reward_0_Auto_Equip False
+
+Response_2_Dialogue 62433
+Response_2_Rewards 2
+Response_2_Reward_0_Type Item
+Response_2_Reward_0_ID 66
+Response_2_Reward_0_Amount 35
+Response_2_Reward_0_Auto_Equip False
+
+Response_2_Reward_1_Type Item
+Response_2_Reward_1_ID 62427
+Response_2_Reward_1_Amount 1
+Response_2_Reward_1_Auto_Equip False
+
+Response_3_Dialogue 62434
+Response_3_Rewards 2
+Response_3_Reward_0_Type Item
+Response_3_Reward_0_ID 67
+Response_3_Reward_0_Amount 35
+Response_3_Reward_0_Auto_Equip False
+
+Response_3_Reward_1_Type Item
+Response_3_Reward_1_ID 62427
+Response_3_Reward_1_Amount 1
+Response_3_Reward_1_Auto_Equip False
+
+Response_4_Dialogue 62435

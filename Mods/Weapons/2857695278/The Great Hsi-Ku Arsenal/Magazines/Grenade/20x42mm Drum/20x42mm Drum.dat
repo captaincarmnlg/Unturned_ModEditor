@@ -1,0 +1,44 @@
+GUID 810de27a78f049fca7c0ab8de7c4efb6
+Type Magazine
+Rarity Legendary
+ID 38641
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Amount 6
+Count_Min 2
+Count_Max 5
+
+Calibers 1
+Caliber_0 754
+
+Tracer 51
+
+Range 8
+Player_Damage 200
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 150
+Structure_Damage 150
+Vehicle_Damage 1000
+Resource_Damage 1000
+Object_Damage 1500
+Explosion 34
+Explosive
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 1192
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 73
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 38219
+Blueprint_1_Build 30
+
+Paintable

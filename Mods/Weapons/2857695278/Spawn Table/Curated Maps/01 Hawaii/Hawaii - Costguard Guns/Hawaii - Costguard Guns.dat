@@ -1,0 +1,18 @@
+GUID c36f2e4f496740c086aea106b29bc2f7
+Type Spawn
+ID 3804
+
+Roots 1
+Root_0_Spawn_ID 801
+Root_0_Weight 300
+
+Tables 4
+Table_0_Asset_ID 38333
+Table_1_Asset_ID 38176
+Table_2_Asset_ID 38522
+Table_3_Asset_ID 38199
+
+Table_0_Weight 10
+Table_1_Weight 15
+Table_2_Weight 20
+Table_3_Weight 10

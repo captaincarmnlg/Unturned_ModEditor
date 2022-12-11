@@ -1,0 +1,45 @@
+﻿// Made in NPC Maker by BowieD
+GUID 28ee125dbd2e45e592600090e2c2d30a
+Type Dialogue
+ID 62440
+Messages 1
+Message_0_Pages 4
+Responses 2
+Response_0_Dialogue 62441
+Response_0_Rewards 7
+Response_0_Reward_0_Type Item
+Response_0_Reward_0_ID 62408
+Response_0_Reward_0_Amount 1
+Response_0_Reward_0_Auto_Equip False
+
+Response_0_Reward_1_Type Item
+Response_0_Reward_1_ID 62409
+Response_0_Reward_1_Amount 2
+Response_0_Reward_1_Auto_Equip False
+
+Response_0_Reward_2_Type Item
+Response_0_Reward_2_ID 285
+Response_0_Reward_2_Amount 6
+Response_0_Reward_2_Auto_Equip False
+
+Response_0_Reward_3_Type Item
+Response_0_Reward_3_ID 65
+Response_0_Reward_3_Amount 4
+Response_0_Reward_3_Auto_Equip False
+
+Response_0_Reward_4_Type Item
+Response_0_Reward_4_ID 67
+Response_0_Reward_4_Amount 4
+Response_0_Reward_4_Auto_Equip False
+
+Response_0_Reward_5_Type Item
+Response_0_Reward_5_ID 62407
+Response_0_Reward_5_Amount 1
+Response_0_Reward_5_Auto_Equip False
+
+Response_0_Reward_6_Type Item
+Response_0_Reward_6_ID 1451
+Response_0_Reward_6_Amount 4
+Response_0_Reward_6_Auto_Equip False
+
+Response_1_Dialogue 62442

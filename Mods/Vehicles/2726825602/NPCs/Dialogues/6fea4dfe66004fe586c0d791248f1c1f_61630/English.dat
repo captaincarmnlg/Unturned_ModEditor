@@ -1,0 +1,10 @@
+﻿// Made in NPC Maker by BowieD
+Message_0_Page_0 Hey! You're already here. I'm <color=#FFCD00><name_npc></color>, and Jp told me to show you the new feature of VV3, Logistics! He wanted to add this back in VV2, even in V++, but never got the chance, so here we are.
+Message_0_Page_1 For now it's pretty bare bones really, but with time more and more will get added (Specially with your help! Jp will make a suggestions channels only for items and logistics in his discord, so feel free to check that out)
+Message_0_Page_2 Anyways, what's this so called Logistics? You may ask, well it's an evolution of a feature that was added in the More Farming Mod, but reimagined here, Jp wants you to be able to stack and place your supplies, this allows for cooler base building, and so you can use your very nice crates in other stuff!
+Message_0_Page_3 What would you like to stack first?
+Response_0 Metal Bars!
+Response_1 Logs!
+Response_2 Cloth!
+Response_3 Scrap Metal!
+Response_4 How do I transport this?

@@ -1,0 +1,14 @@
+GUID 5ede075ff013468bbef79495eeb31626
+Type Spawn
+ID 3917
+
+Roots 1
+Root_0_Spawn_ID 59033
+Root_0_Weight 300
+
+Tables 2
+Table_0_Asset_ID 38342
+Table_1_Asset_ID 38101
+
+Table_0_Weight 10
+Table_1_Weight 10

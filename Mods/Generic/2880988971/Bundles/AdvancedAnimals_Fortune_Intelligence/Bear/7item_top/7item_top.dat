@@ -1,0 +1,29 @@
+GUID 0fa61e1f0fbe40f3ba7e213e949387d0
+Type Shirt
+Useable Clothing
+ID 37107
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 5
+Height 3
+
+Armor 0.9
+
+Blueprints 3
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 37106
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 37106
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32
+Blueprint_2_Type Apparel
+Blueprint_2_Supply_0_ID 37107
+Blueprint_2_Product 37106
+Blueprint_2_Products 1
+Blueprint_2_Build 32

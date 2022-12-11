@@ -1,0 +1,36 @@
+GUID 579cd396db714d8aa7594569016cfc9d
+Type Vehicle
+Rarity Common
+ID 37092
+
+Physics_Profile 17b600c56a564c6285de9d488950def1
+Fuel_Burn_Rate 1.4	
+
+Speed_Min -6
+Speed_Max 17
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 28
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1250
+
+Health_Min 350
+Health_Max 450
+Health 800
+
+Cam_Passenger_Offset -0.05
+Cam_Follow_Distance 8
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 5
+
+Explosion 20
+
+Traction
+-
+BatteryMode_Sirens None
+Valid_Speed_Horizontal 60

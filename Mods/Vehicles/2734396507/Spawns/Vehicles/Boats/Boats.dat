@@ -1,0 +1,45 @@
+GUID 8bcc024ada5b4e1ba87337cb7748dd13
+Type Spawn
+ID 36110
+
+Roots 8
+Root_0_Spawn_ID 604
+Root_0_Weight 10
+Root_1_Spawn_ID 741
+Root_1_Weight 10
+Root_2_Spawn_ID 324
+Root_2_Weight 10
+Root_3_Spawn_ID 108
+Root_3_Weight 10
+Root_4_Spawn_ID 97
+Root_4_Weight 10
+Root_5_Spawn_ID 328
+Root_5_Weight 10
+Root_6_Spawn_ID 325
+Root_6_Weight 5
+Root_7_Spawn_ID 321
+Root_7_Weight 5
+
+Tables 10
+//Seajet
+Table_0_Asset_ID 36110
+Table_0_Weight 1
+Table_1_Asset_ID 36111
+Table_1_Weight 1
+Table_2_Asset_ID 36112
+Table_2_Weight 1
+Table_3_Asset_ID 36113
+Table_3_Weight 1
+Table_4_Asset_ID 36114
+Table_4_Weight 1
+Table_5_Asset_ID 36115
+Table_5_Weight 1
+Table_6_Asset_ID 36116
+Table_6_Weight 1
+Table_7_Asset_ID 36117
+Table_7_Weight 1
+//Guard Coast Boats
+Table_8_Asset_ID 36820
+Table_8_Weight 2
+Table_9_Asset_ID 36821
+Table_9_Weight 2

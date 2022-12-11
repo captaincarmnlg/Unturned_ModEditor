@@ -1,0 +1,35 @@
+GUID f4d9f24e051c4c7ba46ead0babdbe0ff
+Type Magazine
+Rarity Rare
+ID 38491
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Amount 8
+Count_Min 2
+Count_Max 7
+
+Calibers 1
+Caliber_0 8
+
+Range 3
+Player_Damage 5
+Zombie_Damage 50
+Animal_Damage 50
+Barricade_Damage 5
+Structure_Damage 5
+Vehicle_Damage 15
+Resource_Damage 50
+Object_Damage 15
+Explosion 61
+Explosive
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 38491
+Blueprint_0_Build 30
+
+Delete_Empty

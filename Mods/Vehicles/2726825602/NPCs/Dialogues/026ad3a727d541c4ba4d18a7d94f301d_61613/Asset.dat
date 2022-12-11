@@ -1,0 +1,18 @@
+﻿// Made in NPC Maker by BowieD
+GUID 026ad3a727d541c4ba4d18a7d94f301d
+Type Dialogue
+ID 62413
+Messages 1
+Message_0_Pages 3
+Message_0_Rewards 2
+Message_0_Reward_0_Type Item
+Message_0_Reward_0_ID 62402
+Message_0_Reward_0_Amount 1
+Message_0_Reward_0_Auto_Equip True
+
+Message_0_Reward_1_Type Item
+Message_0_Reward_1_ID 62508
+Message_0_Reward_1_Amount 1
+Message_0_Reward_1_Auto_Equip True
+
+Responses 1

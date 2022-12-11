@@ -1,0 +1,14 @@
+GUID 87c23a57ff2b4392b4ceb5ee6c4bfbfd
+Type Spawn
+ID 37772
+
+Roots 1
+Root_0_Spawn_ID 513
+Root_0_Override
+Root_0_Weight 100
+
+Tables 2
+Table_0_Asset_ID 37701
+Table_0_Weight 10
+Table_1_Asset_ID 37101
+Table_1_Weight 10

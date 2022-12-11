@@ -1,0 +1,25 @@
+GUID 60f244f1f60b45a1a6f72fc68b6ece66
+Type Grip
+Rarity Rare
+ID 38462
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Recoil_X 0.10
+Recoil_Y 0.6
+
+Spread 0.8
+Sway 0.75
+Shake 0.8
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 38462
+Blueprint_0_Product 38278
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+
+Paintable

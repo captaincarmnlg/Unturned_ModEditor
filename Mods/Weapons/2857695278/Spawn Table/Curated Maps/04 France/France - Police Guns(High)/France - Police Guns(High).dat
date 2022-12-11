@@ -1,0 +1,11 @@
+GUID 80a529892c0c4c50ab4abb82a8f19215
+Type Spawn
+ID 3845
+
+Roots 1
+Root_0_Spawn_ID 2075
+Root_0_Weight 300
+
+Tables 1
+Table_0_Asset_ID 38393
+Table_0_Weight 20

@@ -1,0 +1,29 @@
+GUID e8c6b9d3ea2b4c288180df1598c8e932
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Barricade
+ID 37213
+
+Size_X 4
+Size_Y 3
+Use_Auto_Icon_Measurements true
+
+Health 100
+Range 4
+Radius 0.0
+Offset 0.25
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 37204
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 1094 
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 37213 
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27

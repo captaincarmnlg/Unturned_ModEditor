@@ -1,0 +1,37 @@
+GUID c33772ae552145fcb6479050deb412b8
+Type Vehicle
+Rarity Common
+ID 62622
+
+Physics_Profile fa7dd857a73a42d5978f1f11bb3973fc
+
+Fuel_Burn_Rate 1.7
+
+Speed_Min -10
+Speed_Max 16
+
+Steer_Min 15
+Steer_Max 35
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1900
+
+Health_Min 350
+Health_Max 450
+Health 1900
+
+BatteryMode_Sirens None
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 4
+
+Explosion 20
+Cam_Passenger_Offset -0.1
+
+Valid_Speed_Horizontal 150
+Asset_Bundle_Version 3
+
+Has_Clip_Prefab False

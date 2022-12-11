@@ -1,0 +1,25 @@
+GUID e7024cd542ed4d62a1a085ccae6aab29
+Type Magazine
+Rarity Epic
+ID 38373
+
+Size_X 1
+Size_Y 2
+Size_Z 0.25
+
+Amount 30
+Count_Min 5
+Count_Max 25
+
+Calibers 1
+Caliber_0 9
+
+Tracer 49
+Spread 0.85
+
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 38373
+Blueprint_0_Build 30
+
+Delete_Empty

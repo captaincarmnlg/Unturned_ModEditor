@@ -1,0 +1,16 @@
+GUID c36df1095fe349928baffa4215942425
+Type Spawn
+ID 3815
+
+Roots 1
+Root_0_Spawn_ID 380
+Root_0_Weight 300
+
+Tables 3
+Table_0_Asset_ID 38392
+Table_1_Asset_ID 39063
+Table_2_Asset_ID 39028
+
+Table_0_Weight 10
+Table_1_Weight 10
+Table_2_Weight 5

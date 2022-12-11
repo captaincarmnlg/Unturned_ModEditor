@@ -1,0 +1,37 @@
+GUID 9e9f85365c0d4ee6a5674c14e223f181
+Type Vehicle
+Rarity Legendary
+ID 62728
+
+Physics_Profile fa7dd857a73a42d5978f1f11bb3973fc
+
+Fuel_Burn_Rate 2.05
+
+Speed_Min -10
+Speed_Max 18.5
+
+Steer_Min 15
+Steer_Max 35
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1800
+
+Health_Min 350
+Health_Max 450
+Health 1850
+
+BatteryMode_Sirens None
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 3
+
+Explosion 20
+Cam_Passenger_Offset -0
+
+Valid_Speed_Horizontal 150
+Asset_Bundle_Version 3
+
+Has_Clip_Prefab False

@@ -1,0 +1,119 @@
+GUID 6dfc203d20b24097bd26826626316616
+Type Spawn
+ID 3701
+
+Roots 1
+Root_0_Spawn_ID 348
+Root_0_Weight 300
+
+Tables 51
+Table_0_Asset_ID 38883
+Table_1_Asset_ID 38327
+Table_2_Asset_ID 38821
+Table_3_Asset_ID 38333
+Table_4_Asset_ID 38101
+Table_5_Asset_ID 38114
+Table_6_Asset_ID 38086
+Table_7_Asset_ID 38625
+Table_8_Asset_ID 38140
+Table_9_Asset_ID 38660
+Table_10_Asset_ID 38656
+Table_11_Asset_ID 38667
+Table_12_Asset_ID 38339
+Table_13_Asset_ID 38954
+Table_14_Asset_ID 38647
+Table_15_Asset_ID 38443
+Table_16_Asset_ID 38956
+Table_17_Asset_ID 38123
+Table_18_Asset_ID 38089
+Table_19_Asset_ID 38469
+Table_20_Asset_ID 38471
+Table_21_Asset_ID 38599
+Table_22_Asset_ID 38811
+Table_23_Asset_ID 38960
+Table_24_Asset_ID 38230
+Table_25_Asset_ID 38354
+Table_26_Asset_ID 38004
+Table_27_Asset_ID 38870
+Table_28_Asset_ID 38871
+Table_29_Asset_ID 38238
+Table_30_Asset_ID 38788
+Table_31_Asset_ID 38054
+Table_32_Asset_ID 38639
+Table_33_Asset_ID 38215
+Table_34_Asset_ID 38437
+Table_35_Asset_ID 38228
+Table_36_Asset_ID 38342
+Table_37_Asset_ID 38117
+Table_38_Asset_ID 38120
+Table_39_Asset_ID 38257
+Table_40_Asset_ID 38621
+Table_41_Asset_ID 38622
+Table_42_Asset_ID 38666
+Table_43_Asset_ID 38390
+Table_44_Asset_ID 38517
+
+Table_0_Weight 15
+Table_1_Weight 15
+Table_2_Weight 15
+Table_3_Weight 10
+Table_4_Weight 10
+Table_5_Weight 5
+Table_6_Weight 5
+Table_7_Weight 10
+Table_8_Weight 10
+Table_9_Weight 5
+Table_10_Weight 5
+Table_11_Weight 1
+Table_12_Weight 5
+Table_13_Weight 10
+Table_14_Weight 10
+Table_15_Weight 5
+Table_16_Weight 5
+Table_17_Weight 10
+Table_18_Weight 5
+Table_19_Weight 10
+Table_20_Weight 5
+Table_21_Weight 5
+Table_22_Weight 5
+Table_23_Weight 10
+Table_24_Weight 5
+Table_25_Weight 10
+Table_26_Weight 5
+Table_27_Weight 5
+Table_28_Weight 5
+Table_29_Weight 1
+Table_30_Weight 5
+Table_31_Weight 1
+Table_32_Weight 5
+Table_33_Weight 1
+Table_34_Weight 1
+Table_35_Weight 1
+Table_36_Weight 10
+Table_37_Weight 5
+Table_38_Weight 5
+Table_39_Weight 10
+Table_40_Weight 10
+Table_41_Weight 10
+Table_42_Weight 10
+Table_43_Weight 10
+Table_44_Weight 5
+
+Table_45_Asset_ID 38973
+Table_45_Weight 5
+
+Table_	46	_Asset_ID 	39043
+Table_	47	_Asset_ID 	39058
+
+Table_	46	_Asset_ID 	39043
+Table_	47	_Asset_ID 	39058
+Table_	48	_Asset_ID 	38986
+Table_	49	_Asset_ID 	38988
+Table_	50	_Asset_ID 	38990
+
+Table_	46	_Weight 	5
+Table_	47	_Weight 	10
+Table_	48	_Weight 	1
+Table_	49	_Weight 	1
+Table_	50	_Weight 	1
+

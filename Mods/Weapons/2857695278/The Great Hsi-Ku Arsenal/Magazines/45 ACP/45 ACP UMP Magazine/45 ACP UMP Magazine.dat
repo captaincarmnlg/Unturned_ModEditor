@@ -1,0 +1,27 @@
+GUID 2d7474b054f8407db3f058dc3c277529
+Type Magazine
+Rarity Rare
+ID 39007
+
+Size_X 1
+Size_Y 2
+Size_Z 0.225
+
+Amount 25
+Count_Min 15
+Count_Max 20
+
+Calibers 1
+Caliber_0 41
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 39007
+Blueprint_1_Build 30

@@ -1,0 +1,40 @@
+GUID 97c22f2204ca48a88ee37bbcf02a0352
+Type Magazine
+Rarity Epic
+ID 39065
+
+Size_X 1
+Size_Y 2
+Size_Z 0.5
+Size2_Z 0.65
+
+Amount 20
+Count_Min 12
+Count_Max 18
+
+Calibers 1
+Caliber_0 781
+
+Tracer 55
+
+Range 3
+Player_Damage 5
+Zombie_Damage 10
+Animal_Damage 10
+Barricade_Damage 5
+Structure_Damage 5
+Vehicle_Damage 15
+Resource_Damage 50
+Object_Damage 15
+Explosion 53
+Explosive
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 39065
+Blueprint_1_Build 30
