@@ -1,0 +1,38 @@
+GUID d5662dca42204642a906664ae01d439d
+Type Vehicle
+Rarity Epic
+ID 35005
+
+Physics_Profile 5e0e41cb67764c9eb3816f0b7dc0d4b8
+Fuel_Burn_Rate 1.8
+
+Speed_Min -6
+Speed_Max 16.5
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 28
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1650
+
+Health_Min 350
+Health_Max 450
+Health 1950
+
+Cam_Passenger_Offset -0.1
+Cam_Follow_Distance 10
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 4
+
+Explosion 20
+
+Exit 3
+Traction
+Bumper_Invulnerable
+BatteryMode_Sirens None
+Valid_Speed_Horizontal 60
+Invulnerable

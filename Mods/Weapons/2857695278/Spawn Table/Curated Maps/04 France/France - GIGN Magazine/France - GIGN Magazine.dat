@@ -1,0 +1,11 @@
+GUID f794efa27eca4014b27e57020fe26632
+Type Spawn
+ID 3842
+
+Roots 1
+Root_0_Spawn_ID 2110
+Root_0_Weight 300
+
+Tables 1
+Table_0_Asset_ID 39026
+Table_0_Weight 15

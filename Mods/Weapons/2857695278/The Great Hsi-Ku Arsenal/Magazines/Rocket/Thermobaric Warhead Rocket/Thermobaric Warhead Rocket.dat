@@ -1,0 +1,35 @@
+GUID e2514eaa04194910989941fa93ea19aa
+Type Magazine
+Rarity Legendary
+ID 38379
+
+Size_X 2
+Size_Y 1
+Size_Z 0.225
+
+Amount 1
+
+Calibers 1
+Caliber_0 20
+
+Player_Damage 50
+Zombie_Damage 60
+Animal_Damage 60
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 73
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 1241
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 32
+
+Paintable

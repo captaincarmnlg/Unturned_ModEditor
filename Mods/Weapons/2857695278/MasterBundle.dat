@@ -1,0 +1,5 @@
+Asset_Bundle_Name the great xigu arsenal.masterbundle
+
+// Path to the asset bundle within Unity.
+// Unity subfolders should match 1:1 with dat subfolders.
+Asset_Prefix Assets/Master Bundles/The Great Xigu Arsenal Master Bundle

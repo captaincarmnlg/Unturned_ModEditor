@@ -1,0 +1,36 @@
+GUID db310897f9844e2c904e6e22e2c5e104
+Type Vehicle
+Rarity Common
+ID 62453
+
+Physics_Profile fa7dd857a73a42d5978f1f11bb3973fc
+
+Fuel_Burn_Rate 1.55
+
+Speed_Min -10
+Speed_Max 18
+
+Steer_Min 15
+Steer_Max 35
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1850
+
+Health_Min 350
+Health_Max 450
+Health 2650
+
+BatteryMode_Sirens None
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 2
+
+Explosion 20
+
+Valid_Speed_Horizontal 150
+Crawler
+Asset_Bundle_Version 3
+Has_Clip_Prefab False

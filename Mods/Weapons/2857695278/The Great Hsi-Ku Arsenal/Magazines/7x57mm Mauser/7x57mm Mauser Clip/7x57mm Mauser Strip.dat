@@ -1,0 +1,29 @@
+GUID be176395e166438ca159846b6e7a6b02
+Type Magazine
+Rarity Uncommon
+ID 38680
+
+Size_X 1
+Size_Y 3
+Size_Z 0.4
+
+Amount 20
+Count_Min 3
+Count_Max 15
+
+Calibers 1
+Caliber_0 755
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 119
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 38680
+Blueprint_1_Build 30
+
+Paintable

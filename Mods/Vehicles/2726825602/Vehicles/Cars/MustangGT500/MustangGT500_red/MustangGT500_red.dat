@@ -1,0 +1,36 @@
+GUID b03fb85476414e4fa836342574b11131
+Type Vehicle
+Rarity Rare
+ID 62795
+
+Physics_Profile fa7dd857a73a42d5978f1f11bb3973fc
+
+Fuel_Burn_Rate 2.4
+
+Speed_Min -10
+Speed_Max 20.75
+
+Steer_Min 15
+Steer_Max 35
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 2000
+
+Health_Min 350
+Health_Max 450
+Health 2000
+
+BatteryMode_Sirens None
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 3
+
+Explosion 20
+Cam_Passenger_Offset -0.1
+
+Valid_Speed_Horizontal 150
+Asset_Bundle_Version 3
+Has_Clip_Prefab False

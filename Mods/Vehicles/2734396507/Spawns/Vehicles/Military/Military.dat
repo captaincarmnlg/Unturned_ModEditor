@@ -1,0 +1,87 @@
+GUID 4b0c19482e964a92ba3c6778ea46452e
+Type Spawn
+ID 36250
+
+Roots 15
+Root_0_Spawn_ID 409
+Root_0_Weight 12
+Root_1_Spawn_ID 308
+Root_1_Weight 12
+Root_2_Spawn_ID 118
+Root_2_Weight 12
+Root_3_Spawn_ID 410
+Root_3_Weight 12
+Root_4_Spawn_ID 411
+Root_4_Weight 12
+Root_5_Spawn_ID 307
+Root_5_Weight 12
+Root_6_Spawn_ID 412
+Root_6_Weight 12
+Root_7_Spawn_ID 307
+Root_7_Weight 12
+Root_8_Spawn_ID 309
+Root_8_Weight 12
+Root_9_Spawn_ID 310
+Root_9_Weight 12
+Root_10_Spawn_ID 311
+Root_10_Weight 12
+Root_11_Spawn_ID 589
+Root_11_Weight 12
+Root_12_Spawn_ID 119
+Root_12_Weight 12
+Root_13_Spawn_ID 145
+Root_13_Weight 12
+Root_14_Spawn_ID 136
+Root_14_Weight 12
+
+Tables 22
+//MB
+Table_0_Asset_ID 36250
+Table_0_Weight 3
+Table_1_Asset_ID 36251
+Table_1_Weight 3
+Table_2_Asset_ID 36252
+Table_2_Weight 3
+Table_3_Asset_ID 36253
+Table_3_Weight 3
+//Ifrit
+Table_4_Asset_ID 36460
+Table_4_Weight 3
+Table_5_Asset_ID 36462
+Table_5_Weight 2
+//Hoverbike
+Table_6_Asset_ID 36550
+Table_6_Weight 1
+Table_7_Asset_ID 36551
+Table_7_Weight 1
+Table_8_Asset_ID 36552
+Table_8_Weight 1
+Table_9_Asset_ID 36553
+Table_9_Weight 1
+Table_10_Asset_ID 36554
+Table_10_Weight 1
+Table_11_Asset_ID 36555
+Table_11_Weight 1
+Table_12_Asset_ID 36556
+Table_12_Weight 1
+Table_13_Asset_ID 36557
+Table_13_Weight 1
+//Cargo
+Table_14_Asset_ID 36508
+Table_14_Weight 6
+Table_15_Asset_ID 36509
+Table_15_Weight 6
+//Defender
+Table_16_Asset_ID 37002
+Table_16_Weight 8
+Table_17_Asset_ID 37003
+Table_17_Weight 8
+Table_18_Asset_ID 37004
+Table_18_Weight 8
+//G-Class
+Table_19_Asset_ID 37005
+Table_19_Weight 8
+Table_20_Asset_ID 37006
+Table_20_Weight 8
+Table_21_Asset_ID 37007
+Table_21_Weight 8

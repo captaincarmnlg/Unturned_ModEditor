@@ -1,0 +1,18 @@
+GUID 9d9c0ae423034ab28ec606cb547157c4
+Type Spawn
+ID 3853
+
+Roots 1
+Root_0_Spawn_ID 9018
+Root_0_Weight 300
+
+Tables 4
+Table_0_Asset_ID 39046
+Table_1_Asset_ID 38511
+Table_2_Asset_ID 39019
+Table_3_Asset_ID 39063
+
+Table_0_Weight 10
+Table_1_Weight 10
+Table_2_Weight 15
+Table_3_Weight 10

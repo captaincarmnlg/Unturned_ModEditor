@@ -1,0 +1,37 @@
+GUID f228e4733e39424782ca77729329ee51
+Type Vehicle
+Rarity Common
+ID 62671
+
+Physics_Profile fa7dd857a73a42d5978f1f11bb3973fc
+
+Fuel_Burn_Rate 1.8
+
+Speed_Min -10
+Speed_Max 22
+
+Steer_Min 15
+Steer_Max 35
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 2050
+
+Health_Min 350
+Health_Max 450
+Health 2100
+
+BatteryMode_Sirens None
+
+Trunk_Storage_X 5
+Trunk_Storage_Y 6
+
+Explosion 20
+Cam_Passenger_Offset -0.125
+
+Valid_Speed_Horizontal 150
+Asset_Bundle_Version 3
+Traction
+Has_Clip_Prefab False

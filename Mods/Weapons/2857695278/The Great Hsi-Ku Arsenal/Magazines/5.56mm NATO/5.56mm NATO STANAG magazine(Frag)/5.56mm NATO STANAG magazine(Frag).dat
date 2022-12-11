@@ -1,0 +1,38 @@
+GUID 3b1efacc282d4fff88776b6387481826
+Type Magazine
+Rarity Legendary
+ID 39020
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Amount 30
+Count_Min 5
+Count_Max 25
+
+Calibers 1
+Caliber_0 1
+
+Tracer 55
+Spread 1.15
+
+Range 3
+Player_Damage 5
+Zombie_Damage 10
+Animal_Damage 10
+Barricade_Damage 5
+Structure_Damage 5
+Vehicle_Damage 15
+Resource_Damage 50
+Object_Damage 15
+Explosion 53
+Explosive
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 39020
+Blueprint_0_Build 30
+
+Delete_Empty

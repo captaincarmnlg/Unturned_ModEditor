@@ -1,0 +1,26 @@
+GUID fae1719b95ce4ed6ae58b2809e850064
+Type Spawn
+ID 3827
+
+Roots 3
+Root_0_Spawn_ID 10062
+Root_0_Weight 300
+Root_1_Spawn_ID 10076
+Root_1_Weight 300
+Root_2_Spawn_ID 10581
+Root_2_Weight 300
+
+Tables 5
+Table_0_Asset_ID 38392
+Table_1_Asset_ID 38511
+Table_2_Asset_ID 39017
+Table_3_Asset_ID 39063
+Table_4_Asset_ID 38444
+Table_5_Asset_ID 38445
+
+Table_0_Weight 10
+Table_1_Weight 10
+Table_2_Weight 10
+Table_3_Weight 10
+Table_4_Weight 5
+Table_5_Weight 5

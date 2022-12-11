@@ -1,0 +1,18 @@
+GUID 5d1a4875fc1a47c1a66df3f6daf8e493
+Type Tire
+Rarity Uncommon
+Useable Tire
+ID 62403
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Mode Remove
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 62403
+Blueprint_0_Product 67
+Blueprint_0_Products 3
+Blueprint_0_Build 27

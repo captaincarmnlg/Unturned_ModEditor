@@ -1,0 +1,68 @@
+GUID 517e914bf1be438e9de7af80c6823520
+Type Spawn
+ID 36530
+
+Roots 9
+Root_0_Spawn_ID 595
+Root_0_Weight 200
+Root_1_Spawn_ID 594
+Root_1_Weight 200
+Root_2_Spawn_ID 732
+Root_2_Weight 200
+Root_3_Spawn_ID 733
+Root_3_Weight 200
+Root_4_Spawn_ID 320
+Root_4_Weight 200
+Root_5_Spawn_ID 134
+Root_5_Weight 200
+Root_6_Spawn_ID 135
+Root_6_Weight 200
+Root_7_Spawn_ID 428
+Root_7_Weight 200
+Root_8_Spawn_ID 727
+Root_8_Weight 200
+
+Tables 19
+//Avvtr
+Table_0_Asset_ID 36530
+Table_0_Weight 100
+Table_1_Asset_ID 36531
+Table_1_Weight 100
+Table_2_Asset_ID 36532
+Table_2_Weight 100
+//Chinook
+Table_3_Asset_ID 36540
+Table_3_Weight 100
+Table_4_Asset_ID 36541
+Table_4_Weight 100
+Table_5_Asset_ID 36542
+Table_5_Weight 100
+Table_6_Asset_ID 36543
+Table_6_Weight 100
+//Auguz
+Table_7_Asset_ID 36830
+Table_7_Weight 75
+Table_8_Asset_ID 36831
+Table_8_Weight 75
+Table_9_Asset_ID 36832
+Table_9_Weight 75
+Table_10_Asset_ID 36833
+Table_10_Weight 75
+Table_11_Asset_ID 36834
+Table_11_Weight 75
+Table_12_Asset_ID 36835
+Table_12_Weight 75
+//Auguz Police
+Table_13_Asset_ID 36836
+Table_13_Weight 75
+//Mi2
+Table_14_Asset_ID 35810
+Table_14_Weight 75
+Table_15_Asset_ID 35811
+Table_15_Weight 75
+Table_16_Asset_ID 35812
+Table_16_Weight 75
+Table_17_Asset_ID 35813
+Table_17_Weight 75
+Table_18_Asset_ID 35814
+Table_18_Weight 75

@@ -1,0 +1,17 @@
+GUID 1be2968b44314ac1abe0080e4d3d5f98
+Type Animal
+ID 37501
+
+Speed_Run 12
+Speed_Walk 4
+
+Behaviour Ignore
+
+Health 50
+
+Reward_ID 37500
+Reward_XP 5
+Reward_Min 1
+Reward_Max 1
+
+Panics 3

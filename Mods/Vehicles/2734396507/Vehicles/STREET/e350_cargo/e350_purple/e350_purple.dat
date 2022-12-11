@@ -1,0 +1,36 @@
+GUID 8e6f9cdbd7054780b937db35d44dbba0
+Type Vehicle
+Rarity Uncommon
+ID 36924
+
+Physics_Profile 56d79cdd12b34ef4889a4a71fc05eb45
+Fuel_Burn_Rate 1.7
+
+Speed_Min -6
+Speed_Max 16
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 28
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1000
+
+Health_Min 350
+Health_Max 450
+Health 1200
+
+Cam_Passenger_Offset -0.1
+Cam_Follow_Distance 10
+
+Trunk_Storage_X 8
+Trunk_Storage_Y 8
+
+Explosion 20
+
+Traction
+-
+BatteryMode_Sirens None
+Valid_Speed_Horizontal 60

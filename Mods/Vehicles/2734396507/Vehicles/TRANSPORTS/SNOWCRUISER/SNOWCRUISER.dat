@@ -1,0 +1,33 @@
+GUID 839f542d4f90458c83670f397c5b61ea
+Type Vehicle
+Rarity Legendary
+ID 37000
+
+Physics_Profile 56d79cdd12b34ef4889a4a71fc05eb45
+Fuel_Burn_Rate 2.5
+
+Speed_Min -6
+Speed_Max 12
+
+Steer_Min 26
+Steer_Max 42
+
+Brake 24
+
+Fuel_Min 5000
+Fuel_Max 13500
+Fuel 18500
+
+Health_Min 1500
+Health_Max 12000
+Health 25000
+
+Trunk_Storage_X 15
+Trunk_Storage_Y 15
+
+Exit 2
+Explosion 20
+Cam_Follow_Distance 40
+Bumper_Invulnerable
+Valid_Speed_Horizontal 60
+Bypass_Buildable_Mobility

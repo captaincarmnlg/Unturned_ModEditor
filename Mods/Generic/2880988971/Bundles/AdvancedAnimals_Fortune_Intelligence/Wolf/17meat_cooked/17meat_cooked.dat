@@ -1,0 +1,20 @@
+GUID 0840b7c3ffd0440cbbc8521d9468f37c
+Type Food
+Useable Consumeable
+ID 37717
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 10
+Food 40
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 37716
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Level 1
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27
+ConsumeAudioClip Sounds/EatCrunchy.mp3

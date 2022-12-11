@@ -1,0 +1,33 @@
+GUID c115f8243ae741889128b25fb26bee18
+Type Magazine
+Rarity Rare
+ID 38132
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Amount 20
+Count_Min 5
+Count_Max 15
+
+Calibers 1
+Caliber_0 705
+
+Tracer 48
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 20
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 38032
+Blueprint_1_Build 20
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 17
+Blueprint_2_Build 20
+
+Paintable

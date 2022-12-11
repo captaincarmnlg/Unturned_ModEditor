@@ -1,0 +1,31 @@
+GUID 41f65d674aa4418caa4936b9fcec84da
+Type Magazine
+Rarity Uncommon
+ID 38971
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 10
+Count_Min 4
+Count_Max 9
+
+Calibers 1
+Caliber_0 783
+
+Tracer 48
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 44
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 38971
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 1006
+Blueprint_2_Build 30

@@ -1,0 +1,20 @@
+GUID d83f8bb413db42fc8cdd02998a1eecc6
+Type Supply
+ID 30038
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supply_0_ID 392
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 27
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 30038
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 392
+Blueprint_1_Output_0_Amount 10
+Blueprint_1_Build 27

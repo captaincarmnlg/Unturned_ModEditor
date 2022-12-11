@@ -1,0 +1,35 @@
+GUID efb64ec66a5847839244c2637d15c7e3
+Type Vehicle
+Rarity Uncommon
+ID 35991
+
+Fuel_Burn_Rate 0.1
+
+Speed_Min -3
+Speed_Max 3
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 28
+
+Fuel_Min 50
+Fuel_Max 50
+Fuel 50
+
+Health_Min 350
+Health_Max 450
+Health 950
+
+Cam_Passenger_Offset 
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 3
+
+Explosion 20
+
+BatteryMode_Headlights Charge
+-
+Valid_Speed_Horizontal 60
+Bicycle
+Crawler

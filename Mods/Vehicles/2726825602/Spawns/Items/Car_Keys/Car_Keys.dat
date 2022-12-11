@@ -1,0 +1,24 @@
+GUID 319a42aa5f4244539de4aecc886fd25e
+Type Spawn
+ID 62403
+
+Roots 6
+Root_0_Spawn_ID 180
+Root_0_Weight 5
+Root_1_Spawn_ID 170
+Root_1_Weight 5
+Root_2_Spawn_ID 173
+Root_2_Weight 5
+Root_3_Spawn_ID 226
+Root_3_Weight 5
+Root_4_Spawn_ID 167
+Root_4_Weight 5
+Root_5_Spawn_ID 153
+Root_5_Weight 5
+Root_6_Spawn_ID 164
+Root_6_Weight 5
+
+Tables 1
+//Car Keys
+Table_0_Asset_ID 62402
+Table_0_Weight 5

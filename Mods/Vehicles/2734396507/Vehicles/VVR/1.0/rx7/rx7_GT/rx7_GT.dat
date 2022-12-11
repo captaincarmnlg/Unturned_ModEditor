@@ -1,0 +1,33 @@
+GUID 0a37719872764307bd5b334bf711b785
+Type Vehicle
+ID 36068
+Rarity Rare
+
+Physics_Profile c5d2c5fc67c6485090e92d1ebcb3b800
+Fuel_Burn_Rate 1.4
+
+Speed_Min -6
+Speed_Max 22
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 30
+
+Fuel_Min 200
+Fuel_Max 800
+Fuel 1050
+
+Health_Min 350
+Health_Max 450
+Health 600
+
+Cam_Passenger_Offset -0.15
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 3
+
+Explosion 20
+
+-
+Valid_Speed_Horizontal 60

@@ -1,0 +1,17 @@
+GUID 59f7f5baddec48cd9d099f4aef03e76b
+Type Grip
+ID 38729
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Recoil_X 0.4
+Recoil_Y 0.4
+
+Spread 0.4
+Sway 0.5
+Shake 0.4
+
+Bipod
+Paintable

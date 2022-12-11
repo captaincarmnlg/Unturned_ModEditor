@@ -1,0 +1,93 @@
+GUID 48f3aed1530042a1a6da0af5053de803
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 38264
+
+Size_X 5
+Size_Y 2
+Size_Z 0.45
+Size2_Z 0.85
+
+Sight 38196
+Magazine 39003
+
+Hook_Sight
+Hook_Tactical
+Hook_Grip
+Hook_Barrel
+
+Ammo_Min 2
+Ammo_Max 6
+
+Safety
+Semi
+
+Caliber 2
+
+Range 200
+Firerate 50
+Action Bolt
+
+Player_Damage 60
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+Instakill_Headshots True
+
+Zombie_Damage 99
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 60
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 40
+Structure_Damage 30
+Vehicle_Damage 40
+Resource_Damage 30
+Object_Damage 35
+
+Durability 0.3
+
+Spread_Aim 0.01
+Spread_Hip 0.25
+
+Recoil_Aim 0.5
+Recoil_Min_X 3
+Recoil_Min_Y 15
+Recoil_Max_X 4
+Recoil_Max_Y 20
+
+Recover_X 0.6
+Recover_Y 0.6
+
+Shake_Min_X -0.005
+Shake_Min_Y 0.005
+Shake_Min_Z -0.05
+Shake_Max_X 0.005
+Shake_Max_Y -0.005
+Shake_Max_Z -0.1
+
+Muzzle 4
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 38264
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 67
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Output_1_ID 61
+Blueprint_1_Output_1_Amount 1
+Blueprint_1_Build 27

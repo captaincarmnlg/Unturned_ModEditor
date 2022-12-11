@@ -1,0 +1,36 @@
+GUID 2282d66630a44e8bae9b99b00abd8a22
+Type Spawn
+ID 62500
+
+Roots 6
+Root_0_Spawn_ID 180
+Root_0_Weight 30
+Root_1_Spawn_ID 170
+Root_1_Weight 30
+Root_2_Spawn_ID 173
+Root_2_Weight 30
+Root_3_Spawn_ID 226
+Root_3_Weight 30
+Root_4_Spawn_ID 167
+Root_4_Weight 20
+Root_5_Spawn_ID 153
+Root_5_Weight 20
+
+Tables 8
+//Spray Cans
+Table_0_Asset_ID 62500
+Table_0_Weight 5
+Table_1_Asset_ID 62501
+Table_1_Weight 5
+Table_2_Asset_ID 62502
+Table_2_Weight 5
+Table_3_Asset_ID 62503
+Table_3_Weight 5
+Table_4_Asset_ID 62504
+Table_4_Weight 5
+Table_5_Asset_ID 62505
+Table_5_Weight 5
+Table_6_Asset_ID 62506
+Table_6_Weight 5
+Table_7_Asset_ID 62507
+Table_7_Weight 5

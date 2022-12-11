@@ -1,0 +1,17 @@
+GUID 1730ccbfea274604a13cc0946b6ce6f1
+Type Magazine
+Rarity Rare
+ID 38833 
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 6
+Count_Min 2
+Count_Max 5
+
+Calibers 1
+Caliber_0 773
+
+Tracer 48

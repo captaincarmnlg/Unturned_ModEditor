@@ -1,0 +1,34 @@
+GUID bce0590d1d634e1b852b914096dc9372
+Type Spawn
+ID 3735
+
+Roots 3
+Root_0_Spawn_ID 653
+Root_0_Weight 300
+Root_1_Spawn_ID 668
+Root_1_Weight 300
+Root_2_Spawn_ID 670
+Root_2_Weight 300
+
+Tables 10
+Table_0_Asset_ID 39005
+Table_1_Asset_ID 39034
+Table_2_Asset_ID 39046
+Table_3_Asset_ID 39057
+Table_4_Asset_ID 39019
+Table_5_Asset_ID 39017
+Table_6_Asset_ID 38494
+Table_7_Asset_ID 38470
+Table_8_Asset_ID 39003
+Table_9_Asset_ID 38224
+
+Table_0_Weight 15
+Table_1_Weight 15
+Table_2_Weight 10
+Table_3_Weight 15
+Table_4_Weight 15
+Table_5_Weight 10
+Table_6_Weight 10
+Table_7_Weight 10
+Table_8_Weight 5
+Table_9_Weight 10

@@ -1,0 +1,36 @@
+GUID 10cbb33b01b845ce8571aaccaaf8de20
+Type Vehicle
+Rarity Legendary
+ID 36289
+
+Physics_Profile c5d2c5fc67c6485090e92d1ebcb3b800
+Fuel_Burn_Rate 1.4
+Traction
+
+Speed_Min -6
+Speed_Max 22
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 30
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 1050
+
+Health_Min 350
+Health_Max 450
+Health 800
+
+Cam_Passenger_Offset -0.05
+
+Traction
+
+Trunk_Storage_X 3
+Trunk_Storage_Y 3
+
+Explosion 20
+
+-
+Valid_Speed_Horizontal 60

@@ -1,0 +1,27 @@
+GUID 28d3dcfd7bf64e43815c4ca3d404a3ee
+Type Magazine
+Rarity Epic
+ID 38366
+
+Size_X 1
+Size_Y 2
+Size_Z 0.5
+
+Amount 32
+Count_Min 15
+Count_Max 31
+
+Calibers 1
+Caliber_0 43
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 44
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 38366
+Blueprint_1_Build 30

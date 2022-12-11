@@ -1,0 +1,44 @@
+"Metadata"
+{
+	"GUID" "77e92af38a844d1eb9f2b7dbf45fff2e"
+	"Type" "SDG.Unturned.MaterialPaletteAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Materials"
+	[
+		{
+			"Name" "vv3.masterbundle"
+			"Path" "Objects/Material_Palettes/Cars_Random/Black.mat"
+		}
+		{
+			"Name" "vv3.masterbundle"
+			"Path" "Objects/Material_Palettes/Cars_Random/Blue.mat"
+		}
+		{
+			"Name" "vv3.masterbundle"
+			"Path" "Objects/Material_Palettes/Cars_Random/Green.mat"
+		}
+		{
+			"Name" "vv3.masterbundle"
+			"Path" "Objects/Material_Palettes/Cars_Random/Orange.mat"
+		}
+		{
+			"Name" "vv3.masterbundle"
+			"Path" "Objects/Material_Palettes/Cars_Random/Purple.mat"
+		}
+		{
+			"Name" "vv3.masterbundle"
+			"Path" "Objects/Material_Palettes/Cars_Random/Red.mat"
+		}
+		{
+			"Name" "vv3.masterbundle"
+			"Path" "Objects/Material_Palettes/Cars_Random/White.mat"
+		}
+		{
+			"Name" "vv3.masterbundle"
+			"Path" "Objects/Material_Palettes/Cars_Random/Yellow.mat"
+		}
+	]
+}

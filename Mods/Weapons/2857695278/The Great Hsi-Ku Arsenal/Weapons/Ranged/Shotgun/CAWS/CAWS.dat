@@ -1,0 +1,97 @@
+GUID 78058e2a9f7a4d1395198cee22195dba
+Type Gun
+Rarity Mythical
+Useable Gun
+Slot Primary
+ID 38054
+
+Size_X 4
+Size_Y 2
+Size_Z 0.35
+Size2_Z 0.5
+
+Sight 38927
+Magazine 38162
+
+Hook_Sight
+Hook_Tactical
+Hook_Grip
+Hook_Barrel
+
+Ammo_Min 5
+Ammo_Max 10
+
+Safety
+Semi
+Auto
+
+Caliber 710
+
+Range 21
+Firerate 12
+Action Trigger
+
+Player_Damage 35
+Player_Leg_Multiplier 0.7
+Player_Arm_Multiplier 0.7
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.2
+
+Zombie_Damage 35
+Zombie_Leg_Multiplier 0.7
+Zombie_Arm_Multiplier 0.7
+Zombie_Spine_Multiplier 0.8
+Zombie_Skull_Multiplier 1.2
+
+Animal_Damage 35
+Animal_Leg_Multiplier 0.7
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.2
+
+Barricade_Damage 9
+Structure_Damage 6
+Vehicle_Damage 9
+Resource_Damage 9
+Object_Damage 10
+
+Durability 0.15
+
+Spread_Aim 0.775
+Spread_Hip 0.125
+
+Ballistic_Steps 1
+Ballistic_Travel 17.5
+
+Recoil_Min_X -1
+Recoil_Min_Y 2
+Recoil_Max_X 1
+Recoil_Max_Y 3
+
+Recover_X 0.1
+Recover_Y 0.1
+
+Shake_Min_X -0.005
+Shake_Min_Y 0.005
+Shake_Min_Z -0.05
+Shake_Max_X 0.005
+Shake_Max_Y -0.005
+Shake_Max_Z -0.1
+
+Muzzle 4
+Shell 33
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Tool 76
+Blueprint_0_Level 1
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 38054
+Blueprint_1_Product 67
+Blueprint_1_Products 2
+Blueprint_1_Build 27

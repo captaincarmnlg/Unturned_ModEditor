@@ -1,0 +1,35 @@
+GUID 1f7a421e12fc486391c225fd9dd03f04
+Type Vehicle
+Rarity Epic
+ID 36872
+
+Physics_Profile 56d79cdd12b34ef4889a4a71fc05eb45
+Fuel_Burn_Rate 1.4
+
+Speed_Min -6
+Speed_Max 16
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 24
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 450
+
+Health_Min 350
+Health_Max 450
+Health 1600
+
+Trunk_Storage_X 9
+Trunk_Storage_Y 9
+
+Explosion 20
+Cam_Follow_Distance 15
+
+Exit 3
+
+-
+BatteryMode_Sirens None
+Valid_Speed_Horizontal 60

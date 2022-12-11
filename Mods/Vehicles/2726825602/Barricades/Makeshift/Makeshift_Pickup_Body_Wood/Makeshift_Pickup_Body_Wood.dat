@@ -1,0 +1,49 @@
+GUID 7e3a8173ceff45dda2910d27f4970644
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Door
+ID 62411
+
+Size_X 6
+Size_Y 4
+Size_Z 0.65
+
+Health 900
+Range 4
+Radius 1
+Offset 1.25
+
+Explosion 19
+
+Blueprints 3
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 285
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Supply_1_ID 61
+Blueprint_0_Supply_1_Amount 8
+Blueprint_0_Supply_2_ID 71
+Blueprint_0_Supply_2_Amount 10
+Blueprint_0_Tool 138
+Blueprint_0_Build 27
+Blueprint_1_Type Barricade
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 285
+Blueprint_1_Supply_0_Amount 5
+Blueprint_1_Supply_1_ID 62
+Blueprint_1_Supply_1_Amount 8
+Blueprint_1_Supply_2_ID 71
+Blueprint_1_Supply_2_Amount 10
+Blueprint_1_Tool 138
+Blueprint_1_Build 27
+Blueprint_2_Type Barricade
+Blueprint_2_Supplies 3
+Blueprint_2_Supply_0_ID 285
+Blueprint_2_Supply_0_Amount 5
+Blueprint_2_Supply_1_ID 63
+Blueprint_2_Supply_1_Amount 8
+Blueprint_2_Supply_2_ID 71
+Blueprint_2_Supply_2_Amount 10
+Blueprint_2_Tool 138
+Blueprint_2_Build 27

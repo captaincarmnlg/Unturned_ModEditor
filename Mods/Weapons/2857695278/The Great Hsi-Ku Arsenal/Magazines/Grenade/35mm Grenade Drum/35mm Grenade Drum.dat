@@ -1,0 +1,30 @@
+GUID 831070258ae24ff5ae2e2e9bf3dcc37f
+Type Magazine
+Rarity Legendary
+ID 38321
+
+Size_X 2
+Size_Y 2
+Size_Z 0.225
+
+Amount 6
+Count_Min 1
+Count_Max 5
+
+Calibers 1
+Caliber_0 729
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 67 
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 73
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 38321
+Blueprint_1_Build 30
+
+Paintable

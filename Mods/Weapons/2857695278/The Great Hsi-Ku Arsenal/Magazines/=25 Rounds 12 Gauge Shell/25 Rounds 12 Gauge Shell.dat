@@ -1,0 +1,20 @@
+Type Magazine
+Rarity Rare
+ID 38xxx
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Amount 5
+Count_Min 4
+Count_Max 3
+
+Calibers 1
+Caliber_0 770
+
+Pellets 6
+
+Tracer 48
+
+Paintable

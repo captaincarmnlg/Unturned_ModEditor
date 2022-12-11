@@ -1,0 +1,17 @@
+GUID fc3c7cc4c34340b3b3aba441f417f8e8
+Type Magazine
+Rarity Epic
+ID 38962 
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 5
+Count_Min 1
+Count_Max 4
+
+Calibers 1
+Caliber_0 782
+
+Tracer 48

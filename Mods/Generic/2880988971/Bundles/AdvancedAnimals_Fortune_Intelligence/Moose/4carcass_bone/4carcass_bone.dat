@@ -1,0 +1,37 @@
+GUID 3476bd134ada4b838a732a4efa882d6c
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Barricade
+ID 37404
+
+Size_X 5
+Size_Y 3
+Use_Auto_Icon_Measurements true
+
+Bypass_Pickup_Ownership true
+
+Health 100
+Range 4
+Radius 0.0
+Offset 0.25
+
+
+Blueprints 2
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 37404
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 136
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 332
+Blueprint_0_Output_0_Amount 5
+Blueprint_0_Build 27
+
+Blueprint_1_Type Supply
+Blueprint_1_Supply_0_ID 37404
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Tool 138
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 332
+Blueprint_1_Output_0_Amount 5
+Blueprint_1_Build 27

@@ -1,0 +1,36 @@
+GUID badcf31fe91f482b913a5bf94e6c2986
+Type Vehicle
+Rarity Legendary
+ID 62512
+
+Physics_Profile 262036796c154b08bb540c05b7dae3ad
+
+Fuel_Burn_Rate 2.3
+
+Speed_Min -10
+Speed_Max 22
+
+Steer_Min 15
+Steer_Max 35
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 2100
+
+Health_Min 350
+Health_Max 450
+Health 1700
+
+BatteryMode_Sirens None
+
+Trunk_Storage_X 2
+Trunk_Storage_Y 1
+
+Explosion 20
+Cam_Passenger_Offset -0.1
+
+Valid_Speed_Horizontal 150
+Asset_Bundle_Version 3
+Has_Clip_Prefab False

@@ -1,0 +1,52 @@
+GUID b3939db0c2de4d28a07757ec260287df
+Type Melee
+Rarity Legendary
+Useable Melee
+Slot Primary
+ID 38515
+
+Size_X 1
+Size_Y 5
+Size_Z 0.99
+Size2_Z 0.85
+
+Range 3
+Strength 1.5
+Stamina 25
+
+Player_Damage 75
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 75
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 75
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 2
+Structure_Damage 2
+Vehicle_Damage 15
+Resource_Damage 30
+Object_Damage 20
+
+Durability 0.2
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 38515
+Blueprint_1_Product 67
+Blueprint_1_Products 3
+Blueprint_1_Build 27

@@ -1,0 +1,24 @@
+GUID 3bae19ea9134475886c6f1515e62a82c
+Type Supply
+ID 30014
+
+Size_X 2
+Size_Y 2
+Size_Z 0.8
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supply_0_ID 30013
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 27
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 30014
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 30013
+Blueprint_1_Output_0_Amount 10
+Blueprint_1_Build 27
+
+
+Asset_Bundle_Version 3
+Enable_Shader_Consolidation

@@ -1,0 +1,32 @@
+GUID d2b8c7b3e1ea47f5b6d2af239243aace
+Type Magazine
+Rarity Epic
+ID 38492
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Amount 8
+Count_Min 2
+Count_Max 7
+
+Calibers 1
+Caliber_0 8
+
+Player_Damage 80
+Zombie_Damage 99
+Animal_Damage 99
+Barricade_Damage 70
+Structure_Damage 70
+Vehicle_Damage 100
+Resource_Damage 100
+Object_Damage 100
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 38492
+Blueprint_0_Build 30
+
+Delete_Empty

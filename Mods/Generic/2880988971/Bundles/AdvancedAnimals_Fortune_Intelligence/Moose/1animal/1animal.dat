@@ -1,0 +1,15 @@
+GUID ee5a58acb7324f81a1aa5d69cd178148
+Type Animal
+ID 37401
+
+Speed_Run 12
+Speed_Walk 4
+
+Behaviour Defense
+
+Health 100
+
+Reward_ID 37400
+Reward_XP 10
+Reward_Min 1
+Reward_Max 1

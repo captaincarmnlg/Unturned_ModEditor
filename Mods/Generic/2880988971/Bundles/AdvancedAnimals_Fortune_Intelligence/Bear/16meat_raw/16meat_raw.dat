@@ -1,0 +1,13 @@
+GUID 9ff7d4f57eac4197b777f3c4fe024113
+Type Food
+Useable Consumeable
+ID 37116
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 15
+Food 45
+Virus 40
+ConsumeAudioClip Sounds/EatCrunchy.mp3

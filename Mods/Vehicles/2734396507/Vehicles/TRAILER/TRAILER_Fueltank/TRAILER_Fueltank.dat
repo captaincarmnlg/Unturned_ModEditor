@@ -1,0 +1,37 @@
+GUID 1d8aec5ce91b4cf9b5b61a777389d2fb
+Type Vehicle
+Rarity Uncommon
+ID 35992
+
+Fuel_Burn_Rate 0.1
+
+Speed_Min -3
+Speed_Max 3
+
+Steer_Min 18
+Steer_Max 30
+
+Brake 28
+
+Fuel_Min 50
+Fuel_Max 50
+Fuel 15000
+
+Health_Min 350
+Health_Max 450
+Health 1550
+
+Cam_Passenger_Offset 
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Explosion 20
+
+Cam_Follow_Distance 15
+BatteryMode_Headlights Charge
+-
+Valid_Speed_Horizontal 60
+Bicycle
+Crawler
+Exit 3

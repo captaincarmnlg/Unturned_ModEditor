@@ -1,0 +1,21 @@
+GUID 72300eb78d014ce09cd93dd123574622
+Type Vehicle_Repair_Tool
+Rarity Uncommon
+Useable Battery_Vehicle
+ID 62400
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Quality_Min 50
+Quality_Max 75
+
+Override_Show_Quality
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 62400
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 27

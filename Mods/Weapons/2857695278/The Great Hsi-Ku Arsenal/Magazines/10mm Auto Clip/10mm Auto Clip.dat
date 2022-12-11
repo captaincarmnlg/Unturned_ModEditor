@@ -1,0 +1,17 @@
+GUID c21129133bd24046959d58c3e1297b11
+Type Magazine
+Rarity Uncommon
+ID 38838 
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 6
+Count_Min 2
+Count_Max 5
+
+Calibers 1
+Caliber_0 778
+
+Tracer 48

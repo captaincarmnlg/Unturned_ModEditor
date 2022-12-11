@@ -1,0 +1,29 @@
+GUID 477d54abcfd14437a2f69b022d844033
+Type Magazine
+Rarity Uncommon
+ID 38874
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 6
+Count_Min 1
+Count_Max 5
+
+Calibers 1
+Caliber_0 780
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 44
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 38874
+Blueprint_1_Build 30
+
+Paintable

@@ -1,0 +1,38 @@
+GUID 653b6e5b9e5c4ade831809c621aa2f7f
+Rarity Uncommon
+Type Vehicle
+ID 36902
+
+Physics_Profile 4ec249cb5e1c4e91a30f5378cb12e3b2
+Fuel_Burn_Rate 1.4
+
+Speed_Min -5
+Speed_Max 16
+
+Steer_Min 10
+Steer_Max 20
+
+Brake 24
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 550
+
+Health_Min 200
+Health_Max 300
+Health 350
+
+Exit 1.5
+
+Zip
+Traction
+Crawler
+Tires_Invulnerable
+
+Trunk_Storage_X 1
+Trunk_Storage_Y 3
+
+Explosion 20
+
+Should_Spawn_Seat_Capsules true
+Valid_Speed_Horizontal 60

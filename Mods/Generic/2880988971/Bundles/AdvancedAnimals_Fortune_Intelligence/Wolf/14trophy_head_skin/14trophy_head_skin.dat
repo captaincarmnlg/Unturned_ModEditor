@@ -1,0 +1,28 @@
+GUID 0cccd8803d174e5ab7f5e41aa726ff5f
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Freeform
+ID 37714
+
+Size_X 2
+Size_Y 2
+Use_Auto_Icon_Measurements true
+
+Health 100
+Range 4
+Offset 0.325
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 37706
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 66
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 37714 
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27

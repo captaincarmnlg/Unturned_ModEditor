@@ -1,0 +1,67 @@
+GUID e923b2fc59774cb486993feae0a37013
+Type Spawn
+ID 36100
+
+Roots 11
+Root_0_Spawn_ID 431
+Root_0_Weight 12
+Root_1_Spawn_ID 609
+Root_1_Weight 12
+Root_2_Spawn_ID 595
+Root_2_Weight 12
+Root_3_Spawn_ID 432
+Root_3_Weight 12
+Root_4_Spawn_ID 587
+Root_4_Weight 12
+Root_5_Spawn_ID 955
+Root_5_Weight 12
+Root_6_Spawn_ID 608
+Root_6_Weight 12
+Root_7_Spawn_ID 594
+Root_7_Weight 12
+Root_8_Spawn_ID 733
+Root_8_Weight 12
+Root_9_Spawn_ID 732
+Root_9_Weight 12
+Root_10_Spawn_ID 725
+Root_10_Weight 12
+
+Tables 17
+//Kolibri
+Table_0_Asset_ID 36100
+Table_0_Weight 6
+Table_1_Asset_ID 36101
+Table_1_Weight 6
+Table_2_Asset_ID 36102
+Table_2_Weight 6
+Table_3_Asset_ID 36103
+Table_3_Weight 6
+Table_4_Asset_ID 36104
+Table_4_Weight 6
+Table_5_Asset_ID 36105
+Table_5_Weight 6
+Table_6_Asset_ID 36106
+Table_6_Weight 6
+Table_7_Asset_ID 36107
+Table_7_Weight 6
+//Auguz
+Table_8_Asset_ID 36830
+Table_8_Weight 6
+Table_9_Asset_ID 36831
+Table_9_Weight 6
+Table_10_Asset_ID 36832
+Table_10_Weight 6
+Table_11_Asset_ID 36833
+Table_11_Weight 6
+Table_12_Asset_ID 36834
+Table_12_Weight 6
+Table_13_Asset_ID 36835
+Table_13_Weight 6
+//Police Obery & Kolibrí
+Table_14_Asset_ID 36108
+Table_14_Weight 6
+Table_15_Asset_ID 36558
+Table_15_Weight 6
+//Auguz Police
+Table_16_Asset_ID 36836
+Table_16_Weight 8

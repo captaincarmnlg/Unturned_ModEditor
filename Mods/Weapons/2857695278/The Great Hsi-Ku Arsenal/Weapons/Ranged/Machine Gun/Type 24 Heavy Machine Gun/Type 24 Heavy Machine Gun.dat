@@ -1,0 +1,87 @@
+GUID c851eced78804abfa0fd2ddcbd1f4fd3
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 38169
+
+Size_X 5
+Size_Y 3
+Size_Z 0.475
+Size2_Z 0.725
+
+Magazine 39028
+
+Hook_Tactical
+
+Ammo_Min 30
+Ammo_Max 200
+
+Auto
+
+Attachment_Calibers 2
+Attachment_Caliber_0 10
+Attachment_Caliber_1 724
+
+Magazine_Calibers 2
+Magazine_Caliber_0 10
+Magazine_Caliber_1 724
+
+Range 150
+Firerate 7
+Replace 0.625
+Action Trigger
+
+Player_Damage 32
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 99
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 32
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 10
+Structure_Damage 10
+Vehicle_Damage 25
+Resource_Damage 25
+Object_Damage 20
+
+Invulnerable
+
+Durability 0.4
+
+Spread_Aim 0.17
+Spread_Hip 0.3
+
+Shake_Min_X -0.01
+Shake_Min_Y 0.01
+Shake_Min_Z -0.025
+Shake_Max_X 0.01
+Shake_Max_Y -0.01
+Shake_Max_Z -0.05
+
+Muzzle 4
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 38169
+Blueprint_1_Product 67
+Blueprint_1_Products 6
+Blueprint_1_Build 27

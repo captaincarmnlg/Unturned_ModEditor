@@ -1,0 +1,14 @@
+GUID 0d6628aca2a541ff9165faba3203e2aa
+Type Spawn
+ID 3705
+
+Roots 1
+Root_0_Spawn_ID 95
+Root_0_Weight 300
+
+Tables 2
+Table_0_Asset_ID 38210
+Table_1_Asset_ID 38240
+
+Table_0_Weight 10
+Table_1_Weight 10

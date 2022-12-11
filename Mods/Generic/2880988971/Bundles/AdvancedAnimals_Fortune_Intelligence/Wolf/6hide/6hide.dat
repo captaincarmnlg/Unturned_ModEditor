@@ -1,0 +1,16 @@
+GUID 0da35528adeb43a5962357c5c2e222c2
+Type Supply
+ID 37706
+
+Size_X 1
+Size_Y 1
+Use_Auto_Icon_Measurements true
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supply_0_ID 37706
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 516
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Build 27

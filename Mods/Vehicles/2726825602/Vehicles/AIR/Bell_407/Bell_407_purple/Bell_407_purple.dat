@@ -1,0 +1,39 @@
+GUID b7b44807f86e4928bad9e99c6b9db40a
+Type Vehicle
+Rarity Rare
+ID 62544
+
+Speed_Min -2
+Speed_Max 40
+
+Steer_Min 80
+Steer_Max 90
+
+Air_Turn_Responsiveness 1.5
+Air_Steer_Min 20
+Air_Steer_Max 40
+
+Fuel 6500
+Fuel_Burn_Rate 3.5
+
+Health_Min 1100
+Health_Max 1200
+Health 2800
+
+Exit 3
+
+Cam_Follow_Distance 16.5
+
+LockMouse
+Engine Helicopter
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Explosion 20
+Invulnerable
+Tires_Invulnerable
+
+Valid_Speed_Horizontal 60
+Asset_Bundle_Version 3
+Has_Clip_Prefab False

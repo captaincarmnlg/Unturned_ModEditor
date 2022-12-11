@@ -1,0 +1,41 @@
+GUID d9176c19121247ac904172ebd2039f10
+Type Vehicle
+Rarity Legendary
+ID 62777
+
+Fuel_Burn_Rate 7
+
+Speed_Min -4
+Speed_Max 55
+
+Steer_Min 20
+Steer_Max 40
+
+Air_Turn_Responsiveness 2.5
+Air_Steer_Min 20
+Air_Steer_Max 40
+
+Brake 25
+Lift 5
+
+Fuel 8000
+
+Health_Min 600
+Health_Max 4000
+Health 4000
+
+LockMouse
+Engine Plane
+Traction
+
+Cam_Follow_Distance 16
+Cam_Passenger_Offset -0.05
+
+Trunk_Storage_X 6
+Trunk_Storage_Y 6
+
+Explosion 20
+Invulnerable
+Tires_Invulnerable
+Valid_Speed_Horizontal 500
+Has_Clip_Prefab False

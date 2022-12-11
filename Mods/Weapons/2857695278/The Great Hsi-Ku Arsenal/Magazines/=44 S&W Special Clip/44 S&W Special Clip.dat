@@ -1,0 +1,16 @@
+Type Magazine
+Rarity Rare
+ID 38xxx
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 6
+Count_Min 2
+Count_Max 5
+
+Calibers 1
+Caliber_0 774
+
+Tracer 48

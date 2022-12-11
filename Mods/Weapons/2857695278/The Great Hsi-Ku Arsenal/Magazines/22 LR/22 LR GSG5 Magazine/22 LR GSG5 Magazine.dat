@@ -1,0 +1,29 @@
+GUID 8301d2e9f8504659976dbce0e1d69cd9
+Type Magazine
+Rarity Uncommon
+ID 38267
+
+Size_X 1
+Size_Y 2
+Size_Z 0.2
+
+Amount 24
+Count_Min 10
+Count_Max 23
+
+Calibers 1
+Caliber_0 723
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 44
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 38267
+Blueprint_1_Build 30
+
+Paintable
