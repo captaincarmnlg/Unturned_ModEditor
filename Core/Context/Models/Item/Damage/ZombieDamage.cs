@@ -1,11 +1,4 @@
-﻿using Core.Context.Enums;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Core.Context.Models.Item.Damage
+﻿namespace Core.Context.Models.Item.Damage
 {
     public class ZombieDamage
     {

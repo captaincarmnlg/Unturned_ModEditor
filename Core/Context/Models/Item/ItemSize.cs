@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Core.Context.Models.Item
+﻿namespace Core.Context.Models.Item
 {
     public class ItemSize
     {

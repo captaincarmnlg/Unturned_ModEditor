@@ -1,11 +1,4 @@
-﻿using Core.Context.Enums.Action;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Core.Context.Models.Item.Action
+﻿namespace Core.Context.Models.Item.Action
 {
     public class Action
     {

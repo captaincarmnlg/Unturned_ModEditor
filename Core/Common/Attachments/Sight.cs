@@ -1,10 +1,5 @@
 ﻿using Core.Context.Enums.Item;
 using Core.Context.Models.Item.Attachments;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Core.Common.Attachments
 {

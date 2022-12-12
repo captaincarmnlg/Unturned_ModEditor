@@ -4,9 +4,9 @@ namespace Core
 {
     public class Parser
     {
-        public Dictionary<string,string> parseRaw(string data)
+        public Dictionary<string, string> parseRaw(string data)
         {
-            var result = new Dictionary<string,string>();
+            var result = new Dictionary<string, string>();
             Regex keyvalue = new Regex("(?<key>[\\w\\d]+)[ ]+(?<value>.+)");
             Regex key = new Regex("^(?<key>[\\w\\d]+)[ ]*$", RegexOptions.Multiline);
             MatchCollection keyvaluematch = keyvalue.Matches(data);
@@ -20,7 +20,7 @@ namespace Core
                 result.Add(item.Groups["key"].Value, item.Groups["value"].Value);
             }
             return result;
-        } 
+        }
 
     }
 }
