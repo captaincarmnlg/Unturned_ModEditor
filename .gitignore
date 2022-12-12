@@ -1,2 +1,5 @@
 ﻿Core/obj
 .vs
+CoreTests/bin
+CoreTests/obj
+Core/bin
