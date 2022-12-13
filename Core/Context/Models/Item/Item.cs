@@ -8,11 +8,12 @@ namespace Core.Context.Models.Item
         public char[] ID { get; set; } = new char[32]; // The GUID is automatically generated for the item when the game is launched. If it is not automatically generated, then it is assumable that the content was not set up properly.
         public ItemType Type { get; set; } // Each category of item has its own type. The type to use can be found for each specific item category below, and is used for the item's context type as viewed in the context menu.
         public RarityType Rarity { get; set; } // This defines which class to use for the item when equipped. If unspecified it will default to None, meaning that the item cannot be equipped. Which value to use for equippable items can be found below for each item category.
+        public UsableType Usable { get; set; }
         public SlotType Slot { get; set; } // Item inventory slot type.
         public ItemSize Size { get; set; } = default!; // Item inventory slot size.
         public ItemCapacity Capacity { get; set; } = default!; // Generic item capacity
-        public ItemQuality Quality { get; set; } = default!;  // Generic item quality (durability)
-        public ItemDamage Damage { get; set; } = default!; // Item damage modifiers
+        public ItemQuality? Quality { get; set; } = default!;  // Generic item quality (durability)
+        public ItemDamage? Damage { get; set; } = default!; // Item damage modifiers
 
         public bool Can_Use_Underwater { get; set; } // Item usable under water.
         public bool Should_Drop_On_Death { get; set; } // Drop item on death.

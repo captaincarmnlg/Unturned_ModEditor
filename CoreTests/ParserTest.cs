@@ -1,4 +1,4 @@
-using Core;
+using Core.Utils;
 using Xunit;
 
 namespace CoreTests

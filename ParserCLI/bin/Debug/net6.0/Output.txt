@@ -1,0 +1,5833 @@
+
+Folded Harris Bipod {
+    Content {
+        Bipod: SingleValueBool
+        Paintable: SingleValueBool
+        GUID: 3a25706a55164b99b8edf2381606089d
+        Type: Grip
+        Rarity: Epic
+        ID: 38463
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.3
+        Recoil_X: 0.6
+        Recoil_Y: 0.6
+        Spread: 0.4
+        Sway: 0.5
+        Shake: 0.4
+        Blueprints: 1
+        Blueprint_0_Type: Tool
+        Blueprint_0_Supplies: 1
+        Blueprint_0_Supply_0_ID: 38463
+        Blueprint_0_Product: 38413
+        Blueprint_0_Products: 1
+        Blueprint_0_Build: 27
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Folded BRM-S Bipod
+            Description: Military grade bipod. Reduces recoil and spread when prone.
+        }
+        
+    }
+}
+Folded Modpod {
+    Content {
+        Bipod: SingleValueBool
+        Paintable: SingleValueBool
+        GUID: e8f6c00fcd40439bbf6caa28cf2cc392
+        Type: Grip
+        Rarity: Epic
+        ID: 38464
+        Size_X: 1
+        Size_Y: 2
+        Size_Z: 0.3
+        Recoil_X: 0.6
+        Recoil_Y: 0.6
+        Spread: 0.4
+        Sway: 0.5
+        Shake: 0.4
+        Blueprints: 1
+        Blueprint_0_Type: Tool
+        Blueprint_0_Supplies: 1
+        Blueprint_0_Supply_0_ID: 38464
+        Blueprint_0_Product: 38419
+        Blueprint_0_Products: 1
+        Blueprint_0_Build: 27
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Folded Modpod
+            Description: Military grade bipod. Reduces recoil and spread when prone.
+        }
+        
+    }
+}
+Harris Bipod {
+    Content {
+        Bipod: SingleValueBool
+        Paintable: SingleValueBool
+        GUID: 71791e22e2834128864b0f8cde171496
+        Type: Grip
+        Rarity: Epic
+        ID: 38413
+        Size_X: 1
+        Size_Y: 2
+        Size_Z: 0.3
+        Recoil_X: 0.4
+        Recoil_Y: 0.4
+        Spread: 0.4
+        Sway: 0.5
+        Shake: 0.4
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Harris Bipod
+            Description: Military grade bipod. Reduces recoil and spread when prone.
+        }
+        
+    }
+}
+Modpod {
+    Content {
+        Bipod: SingleValueBool
+        Paintable: SingleValueBool
+        GUID: 307df54787704acb8673e611c0e66f10
+        Type: Grip
+        Rarity: Epic
+        ID: 38419
+        Size_X: 1
+        Size_Y: 2
+        Size_Z: 0.3
+        Recoil_X: 0.4
+        Recoil_Y: 0.4
+        Spread: 0.4
+        Sway: 0.5
+        Shake: 0.4
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Modpod
+            Description: Military grade bipod. Reduces recoil and spread when prone.
+        }
+        
+    }
+}
+HK33SG1 Bipod {
+    Content {
+        Bipod: SingleValueBool
+        Paintable: SingleValueBool
+        GUID: 59f7f5baddec48cd9d099f4aef03e76b
+        Type: Grip
+        ID: 38729
+        Size_X: 1
+        Size_Y: 2
+        Size_Z: 0.3
+        Recoil_X: 0.4
+        Recoil_Y: 0.4
+        Spread: 0.4
+        Sway: 0.5
+        Shake: 0.4
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Type 67-2 Bipod
+            Description: Ranger grade bipod. Reduces recoil and spread when prone.
+        }
+        
+    }
+}
+Type 67-2 Bipod {
+    Content {
+        Bipod: SingleValueBool
+        Paintable: SingleValueBool
+        GUID: 59f7f5baddec48cd9d099f4aef03e76b
+        Type: Grip
+        ID: 38729
+        Size_X: 1
+        Size_Y: 2
+        Size_Z: 0.3
+        Recoil_X: 0.4
+        Recoil_Y: 0.4
+        Spread: 0.4
+        Sway: 0.5
+        Shake: 0.4
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Type 67-2 Bipod
+            Description: Ranger grade bipod. Reduces recoil and spread when prone.
+        }
+        
+    }
+}
+Type 81 LMG Bipod {
+    Content {
+        Bipod: SingleValueBool
+        Paintable: SingleValueBool
+        GUID: 18511042e9ab4d6b9a47ca7fbe922f57
+        Type: Grip
+        ID: 38800
+        Size_X: 1
+        Size_Y: 2
+        Size_Z: 0.3
+        Recoil_X: 0.4
+        Recoil_Y: 0.4
+        Spread: 0.4
+        Sway: 0.5
+        Shake: 0.4
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Type 81 LMG Bipod
+            Description: Ranger grade bipod. Reduces recoil and spread when prone.
+        }
+        
+    }
+}
+BipodeXt {
+    Content {
+        Paintable: SingleValueBool
+        GUID: f0027f04bc2442d7be697b61dfa4243b
+        Type: Grip
+        Rarity: Legendary
+        ID: 38283
+        Size_X: 1
+        Size_Y: 2
+        Size_Z: 0.2
+        Recoil_X: 0.8
+        Recoil_Y: 0.4
+        Spread: 0.8
+        Sway: 0.75
+        Shake: 0.8
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: BipodeXt
+            Description: Military grade bipod extension. Reduces vertical recoil.
+        }
+        
+    }
+}
+Folded Folding Grip {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 60f244f1f60b45a1a6f72fc68b6ece66
+        Type: Grip
+        Rarity: Rare
+        ID: 38462
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.2
+        Recoil_X: 0.10
+        Recoil_Y: 0.6
+        Spread: 0.8
+        Sway: 0.75
+        Shake: 0.8
+        Blueprints: 1
+        Blueprint_0_Type: Tool
+        Blueprint_0_Supplies: 1
+        Blueprint_0_Supply_0_ID: 38462
+        Blueprint_0_Product: 38278
+        Blueprint_0_Products: 1
+        Blueprint_0_Build: 27
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Folded Folding Grip
+            Description: Military grade Folding grip. Reduces vertical recoil.
+        }
+        
+    }
+}
+Folding Grip {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 1808a5e6eca04f02a6b167e7c69ae70a
+        Type: Grip
+        Rarity: Rare
+        ID: 38278
+        Size_X: 1
+        Size_Y: 2
+        Size_Z: 0.2
+        Recoil_X: 0.8
+        Recoil_Y: 0.4
+        Spread: 0.8
+        Sway: 0.75
+        Shake: 0.8
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: BRM-S Bipod
+            Description: Military grade Folding grip. Reduces vertical recoil.
+        }
+        
+    }
+}
+Grip Pod {
+    Content {
+        Paintable: SingleValueBool
+        GUID: aa3b0fb59285465bb7fd47d64bb76d27
+        Type: Grip
+        Rarity: Epic
+        ID: 38167
+        Size_X: 1
+        Size_Y: 2
+        Size_Z: 0.2
+        Recoil_X: 0.4
+        Recoil_Y: 0.4
+        Spread: 0.3
+        Sway: 0.4
+        Shake: 0.3
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Grip Pod
+            Description: Military grade vertical grip.Combine between grip and bipod. Reduces vertical recoil and spread when prone.
+        }
+        
+    }
+}
+M900A {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 0d26399b12cb4a82af8a0fbfc5086545
+        Type: Grip
+        Rarity: Rare
+        ID: 38873
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.2
+        Recoil_X: 0.4
+        Recoil_Y: 0.4
+        Spread: 0.8
+        Sway: 0.75
+        Shake: 0.8
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: M900A
+            Description: Military grade vertical grip. Reduces vertical recoil.
+        }
+        
+    }
+}
+RK-2 {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 11002d5d77084f929e8d37d5f4ef3f0f
+        Type: Grip
+        Rarity: Rare
+        ID: 38428
+        Size_X: 1
+        Size_Y: 2
+        Size_Z: 0.2
+        Recoil_X: 0.8
+        Recoil_Y: 0.4
+        Spread: 0.8
+        Sway: 0.75
+        Shake: 0.8
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: RK-2 Grip
+            Description: Ranger grade vertical grip. Reduces vertical recoil.
+        }
+        
+    }
+}
+RK-6 {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 5558f7a67d234169a886c598499d1bbb
+        Type: Grip
+        Rarity: Rare
+        ID: 38429
+        Size_X: 1
+        Size_Y: 2
+        Size_Z: 0.2
+        Recoil_X: 0.8
+        Recoil_Y: 0.4
+        Spread: 0.8
+        Sway: 0.75
+        Shake: 0.8
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: RK-6 Grip
+            Description: Ranger grade vertical grip. Reduces vertical recoil.
+        }
+        
+    }
+}
+2DP {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 89bb483d8ab74415b7eb4e0cf3271445
+        Type: Tactical
+        Rarity: Rare
+        ID: 38191
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.075
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: 2DP
+            Description: Side mounted tactical light. 
+        }
+        
+    }
+}
+=M500AB {
+    Content {
+        Paintable: SingleValueBool
+        Type: Tactical
+        Rarity: Rare
+        ID: 38xxx
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.075
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: M500AB
+            Description: Side mounted tactical light. 
+        }
+        
+    }
+}
+AN-PEQ15 {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 26689d35096949deb0b52e051d04323f
+        Type: Tactical
+        Rarity: Rare
+        ID: 38190
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.075
+        Spread: 0.8
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: AN/PEQ-15 ATPIAL
+            Description: Side mounted tactical laser. Increases accuracy.
+        }
+        
+    }
+}
+AN-PEQ16 {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 46239ad676034938b052450fb596d829
+        Type: Tactical
+        Rarity: Rare
+        ID: 38407
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.080
+        Spread: 0.8
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: AN/PEQ-16
+            Description: Side mounted tactical laser. Increases accuracy.
+        }
+        
+    }
+}
+AN-PEQ2 {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 7da4db39bf6a479393ba2d93f39730a8
+        Type: Tactical
+        Rarity: Rare
+        ID: 38166
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.075
+        Spread: 0.8
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: AN/PEQ-2
+            Description: Side mounted tactical laser. Increases accuracy.
+        }
+        
+    }
+}
+DBAL-I2 {
+    Content {
+        Paintable: SingleValueBool
+        GUID: abdb4b76ef1f4dc9acd23d246e55446d
+        Type: Tactical
+        Rarity: Rare
+        ID: 38888
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.075
+        Spread: 0.8
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: DBAL-I2
+            Description: Side mounted tactical laser. Increases accuracy.
+        }
+        
+    }
+}
+LLM MK3 {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 4e8dcf4b1f754a33ae12ab9d2dc3312d
+        Type: Tactical
+        Rarity: Rare
+        ID: 38285
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.075
+        Spread: 0.8
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: LLM MK3
+            Description: Side mounted tactical laser. Increases accuracy.
+        }
+        
+    }
+}
+M500AB {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 47e7e3e1e3044f97942b304fcc319086
+        Type: Tactical
+        Rarity: Rare
+        ID: 38985
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.075
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: M500AB
+            Description: Side mounted tactical light. 
+        }
+        
+    }
+}
+M720V RAID {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 71fb1c806f094e0796154ad1d8ba8c1a
+        Type: Tactical
+        Rarity: Rare
+        ID: 38885
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.075
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: M720V RAID
+            Description: Side mounted tactical light. 
+        }
+        
+    }
+}
+M962V {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 403cd1b37eb54eeca8abacc0c95b6a3d
+        Type: Tactical
+        Rarity: Rare
+        ID: 38288
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.075
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: M962V
+            Description: Side mounted tactical light. 
+        }
+        
+    }
+}
+Perst-1IK {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 120be9f4657f4a8ca55cde64ee18eeae
+        Type: Tactical
+        Rarity: Rare
+        ID: 38289
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.075
+        Spread: 0.8
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Perst-1IK
+            Description: Side mounted tactical laser. Increases accuracy.
+        }
+        
+    }
+}
+Pesrt 3 {
+    Content {
+        Paintable: SingleValueBool
+        GUID: feb232f8f3aa4b7a9c74070c22e94d19
+        Type: Tactical
+        Rarity: Rare
+        ID: 38290
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.075
+        Spread: 0.8
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Pesrt 3
+            Description: Side mounted tactical laser. Increases accuracy.
+        }
+        
+    }
+}
+TLR-1 {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 402cd1b37eb56eeca0abacc0c95b6a3d
+        Type: Tactical
+        Rarity: Rare
+        ID: 38432
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.075
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: TLR-1
+            Description: Side mounted tactical light. 
+        }
+        
+    }
+}
+277 TVCM Suppressor {
+    Content {
+        GUID: 030e5d113cca4566a068c3a206cc582d
+        Type: Barrel
+        Rarity: Epic
+        ID: 39064
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.2
+        Calibers: 1
+        Caliber_0: 781
+        Silenced: 
+        Volume: 0.3
+        Durability: 3
+        Quality_Min: 90
+        Quality_Max: 100
+        Ballistic_Drop: 1.1
+        Blueprints: 1
+        Blueprint_0_Type: Repair
+        Blueprint_0_Supplies: 1
+        Blueprint_0_Supply_0_ID: 67
+        Blueprint_0_Supply_0_Amount: 4
+        Blueprint_0_Tool: 76
+        Blueprint_0_Level: 2
+        Blueprint_0_Skill: Repair
+        Blueprint_0_Build: 27
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: .277 TVCM Suppressor
+            Description: Military grade suppressor For .277 TVCM Calibers. Makes gunshots much quieter.
+        }
+        
+    }
+}
+DTK-3 {
+    Content {
+        Braked: SingleValueBool
+        Paintable: SingleValueBool
+        GUID: 402da07d4d3044d398193e471c25ab2d
+        Type: Barrel
+        Rarity: Rare
+        ID: 38411
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.15
+        Calibers: 10
+        Caliber_0: 1
+        Caliber_1: 4
+        Caliber_2: 12
+        Caliber_3: 22
+        Caliber_4: 23
+        Caliber_5: 24
+        Caliber_6: 25
+        Caliber_7: 39
+        Caliber_8: 41
+        Caliber_9: 703
+        Durability: 1
+        Recoil_X: 0.8
+        Recoil_Y: 0.6
+        Ballistic_Drop: 0.9
+        Blueprints: 1
+        Blueprint_0_Type: Repair
+        Blueprint_0_Supplies: 1
+        Blueprint_0_Supply_0_ID: 67
+        Blueprint_0_Supply_0_Amount: 3
+        Blueprint_0_Tool: 76
+        Blueprint_0_Level: 1
+        Blueprint_0_Skill: Repair
+        Blueprint_0_Build: 27
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: DTK-3
+            Description: Ranger grade muzzle. Hides muzzle flash, tracers and reduces recoil.
+        }
+        
+    }
+}
+Extent Barrel {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 53533abee92346c48ed9269e7c84cec6
+        Type: Barrel
+        Rarity: Rare
+        ID: 38274
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.15
+        Calibers: 24
+        Caliber_0: 1
+        Caliber_1: 4
+        Caliber_2: 12
+        Caliber_3: 22
+        Caliber_4: 23
+        Caliber_5: 24
+        Caliber_6: 25
+        Caliber_7: 79
+        Caliber_8: 41
+        Caliber_9: 9
+        Caliber_10: 10
+        Caliber_11: 11
+        Caliber_12: 26
+        Caliber_13: 27
+        Caliber_14: 31
+        Caliber_15: 34
+        Caliber_16: 30
+        Caliber_17: 302
+        Caliber_18: 303
+        Caliber_19: 304
+        Caliber_20: 305
+        Caliber_21: 307
+        Caliber_22: 311
+        Caliber_23: 318
+        Spread: 0.6
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Extent Barrel
+            Description: Military grade barrel. Increases accuracy.
+        }
+        
+    }
+}
+Fake Suppressor .22LR {
+    Content {
+        GUID: 46ef60180f7f40a8a851fd0e9c9f21e7
+        Type: Barrel
+        Rarity: Rare
+        ID: 38273
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.15
+        Calibers: 1
+        Caliber_0: 723
+        Durability: 2
+        Recoil_X: 0.8
+        Recoil_Y: 0.6
+        Ballistic_Drop: 0.9
+        Blueprints: 1
+        Blueprint_0_Type: Repair
+        Blueprint_0_Supplies: 1
+        Blueprint_0_Supply_0_ID: 67
+        Blueprint_0_Supply_0_Amount: 4
+        Blueprint_0_Tool: 76
+        Blueprint_0_Level: 2
+        Blueprint_0_Skill: Repair
+        Blueprint_0_Build: 27
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: .22LR Fake Suppressor
+            Description: Fake Suppressor. Hides muzzle flash, tracers and reduces recoil.
+        }
+        
+    }
+}
+Internal supressor {
+    Content {
+        Silenced: SingleValueBool
+        GUID: 8bd1cdd2147146199f5d0f5485c546f0
+        Type: Barrel
+        ID: 38791
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.125
+        Volume: 0.8
+        Ballistic_Drop: 1.2
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Internal supressor
+            Description: Military grade suppressor. Makes gunshots much quieter.
+        }
+        
+    }
+}
+JailBrake Muzzle device {
+    Content {
+        Braked: SingleValueBool
+        Paintable: SingleValueBool
+        GUID: c8377c4a0e684eda8df83feff1bd3509
+        Type: Barrel
+        ID: 38877
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.15
+        Calibers: 24
+        Caliber_0: 1
+        Caliber_1: 4
+        Caliber_2: 12
+        Caliber_3: 22
+        Caliber_4: 23
+        Caliber_5: 24
+        Caliber_6: 25
+        Caliber_7: 79
+        Caliber_8: 41
+        Caliber_9: 9
+        Caliber_10: 10
+        Caliber_11: 11
+        Caliber_12: 26
+        Caliber_13: 27
+        Caliber_14: 31
+        Caliber_15: 34
+        Caliber_16: 30
+        Caliber_17: 302
+        Caliber_18: 303
+        Caliber_19: 304
+        Caliber_20: 305
+        Caliber_21: 307
+        Caliber_22: 311
+        Caliber_23: 318
+        Recoil_X: 0.8
+        Recoil_Y: 0.6
+        Ballistic_Drop: 0.9
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: JailBrake Muzzle device
+            Description: Military grade barrel. Hides muzzle flash, tracers and reduces recoil.
+        }
+        
+    }
+}
+KX3 {
+    Content {
+        GUID: 9b27e13563704d90a2318814c9858fd9
+        Type: Barrel
+        Rarity: Rare
+        ID: 38138
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.15
+        Calibers: 8
+        Caliber_0: 1
+        Caliber_1: 4
+        Caliber_2: 12
+        Caliber_3: 22
+        Caliber_4: 23
+        Caliber_5: 24
+        Caliber_6: 25
+        Caliber_7: 79
+        Recoil_X: 0.8
+        Recoil_Y: 0.6
+        Ballistic_Drop: 0.9
+        Blueprints: 1
+        Blueprint_0_Type: Repair
+        Blueprint_0_Supplies: 1
+        Blueprint_0_Supply_0_ID: 67
+        Blueprint_0_Supply_0_Amount: 4
+        Blueprint_0_Tool: 76
+        Blueprint_0_Level: 2
+        Blueprint_0_Skill: Repair
+        Blueprint_0_Build: 27
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: KX3"Fire Pig" Flash Suppressor
+            Description: Military grade muzzle. Hides muzzle flash, tracers and reduces recoil.
+        }
+        
+    }
+}
+Nomad-30 {
+    Content {
+        GUID: ea47b12484804fc3ad1b0f59effc41a2
+        Type: Barrel
+        Rarity: Legendary
+        ID: 38254
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.125
+        Calibers: 1
+        Caliber_0: 704
+        Silenced: 
+        Volume: 0.2
+        Durability: 0.2
+        Quality_Min: 90
+        Quality_Max: 100
+        Ballistic_Drop: 1.1
+        Blueprints: 1
+        Blueprint_0_Type: Repair
+        Blueprint_0_Supplies: 1
+        Blueprint_0_Supply_0_ID: 67
+        Blueprint_0_Supply_0_Amount: 4
+        Blueprint_0_Tool: 76
+        Blueprint_0_Level: 2
+        Blueprint_0_Skill: Repair
+        Blueprint_0_Build: 27
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Nomad-30 Suppressor
+            Description: Military grade suppressor. Makes gunshots much quieter.
+        }
+        
+    }
+}
+Octane {
+    Content {
+        Silenced: SingleValueBool
+        Paintable: SingleValueBool
+        GUID: e5eec5926bc44c76a9c8d5e9faaa363a
+        Type: Barrel
+        Rarity: Epic
+        ID: 38421
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.125
+        Calibers: 15
+        Caliber_0: 1
+        Caliber_1: 4
+        Caliber_2: 12
+        Caliber_3: 22
+        Caliber_4: 23
+        Caliber_5: 24
+        Caliber_6: 25
+        Caliber_7: 39
+        Caliber_8: 41
+        Caliber_9: 716
+        Caliber_10: 27
+        Caliber_11: 35
+        Caliber_12: 34
+        Caliber_13: 718
+        Caliber_14: 26
+        Volume: 0.3
+        Durability: 3
+        Quality_Min: 90
+        Quality_Max: 100
+        Ballistic_Drop: 1.1
+        Blueprints: 1
+        Blueprint_0_Type: Repair
+        Blueprint_0_Supplies: 1
+        Blueprint_0_Supply_0_ID: 67
+        Blueprint_0_Supply_0_Amount: 4
+        Blueprint_0_Tool: 76
+        Blueprint_0_Level: 2
+        Blueprint_0_Skill: Repair
+        Blueprint_0_Build: 27
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Octane Suppressor
+            Description: Military grade suppressor. Makes gunshots much quieter.
+        }
+        
+    }
+}
+Omaga 9000 {
+    Content {
+        Silenced: SingleValueBool
+        Paintable: SingleValueBool
+        GUID: 691e5a61d75a442da17a4a37b4c80570
+        Type: Barrel
+        Rarity: Epic
+        ID: 38422
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.125
+        Calibers: 15
+        Caliber_0: 1
+        Caliber_1: 4
+        Caliber_2: 12
+        Caliber_3: 22
+        Caliber_4: 23
+        Caliber_5: 24
+        Caliber_6: 25
+        Caliber_7: 39
+        Caliber_8: 41
+        Caliber_9: 716
+        Caliber_10: 27
+        Caliber_11: 35
+        Caliber_12: 34
+        Caliber_13: 718
+        Caliber_14: 26
+        Volume: 0.3
+        Durability: 3
+        Quality_Min: 90
+        Quality_Max: 100
+        Ballistic_Drop: 1.1
+        Blueprints: 1
+        Blueprint_0_Type: Repair
+        Blueprint_0_Supplies: 1
+        Blueprint_0_Supply_0_ID: 67
+        Blueprint_0_Supply_0_Amount: 4
+        Blueprint_0_Tool: 76
+        Blueprint_0_Level: 2
+        Blueprint_0_Skill: Repair
+        Blueprint_0_Build: 27
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Omaga 9000 Suppressor
+            Description: Military grade suppressor. Makes gunshots much quieter.
+        }
+        
+    }
+}
+Osprey 45 {
+    Content {
+        GUID: b930dc391fc54fc489629c18fd43ff04
+        Type: Barrel
+        Rarity: Epic
+        ID: 38275
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.125
+        Calibers: 4
+        Caliber_0: 7
+        Caliber_1: 41
+        Caliber_2: 79
+        Caliber_3: 3
+        Silenced: 
+        Volume: 0.3
+        Durability: 3
+        Quality_Min: 90
+        Quality_Max: 100
+        Ballistic_Drop: 1.1
+        Blueprints: 1
+        Blueprint_0_Type: Repair
+        Blueprint_0_Supplies: 1
+        Blueprint_0_Supply_0_ID: 67
+        Blueprint_0_Supply_0_Amount: 4
+        Blueprint_0_Tool: 76
+        Blueprint_0_Level: 2
+        Blueprint_0_Skill: Repair
+        Blueprint_0_Build: 27
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Osprey .45 Suppressor
+            Description: Military grade suppressor. Makes gunshots much quieter.
+        }
+        
+    }
+}
+PBS4 {
+    Content {
+        Silenced: SingleValueBool
+        Paintable: SingleValueBool
+        GUID: ca500621781747fcb1134096e5833f90
+        Type: Barrel
+        Rarity: Epic
+        ID: 38423
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.130
+        Calibers: 9
+        Caliber_0: 9
+        Caliber_1: 10
+        Caliber_2: 11
+        Caliber_3: 26
+        Caliber_4: 27
+        Caliber_5: 31
+        Caliber_6: 34
+        Caliber_7: 703
+        Caliber_8: 739
+        Volume: 0.3
+        Durability: 3
+        Quality_Min: 90
+        Quality_Max: 100
+        Ballistic_Drop: 1.1
+        Blueprints: 1
+        Blueprint_0_Type: Repair
+        Blueprint_0_Supplies: 1
+        Blueprint_0_Supply_0_ID: 67
+        Blueprint_0_Supply_0_Amount: 4
+        Blueprint_0_Tool: 76
+        Blueprint_0_Level: 2
+        Blueprint_0_Skill: Repair
+        Blueprint_0_Build: 27
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: PBS4 Suppressor
+            Description: Ranger grade suppressor. Makes gunshots much quieter.
+        }
+        
+    }
+}
+Rotex 5 {
+    Content {
+        GUID: 82a25af53d394e568355578adf6fed8b
+        Type: Barrel
+        Rarity: Epic
+        ID: 38276
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.125
+        Calibers: 24
+        Caliber_0: 1
+        Caliber_1: 4
+        Caliber_2: 12
+        Caliber_3: 22
+        Caliber_4: 23
+        Caliber_5: 24
+        Caliber_6: 25
+        Caliber_7: 79
+        Caliber_8: 41
+        Caliber_9: 9
+        Caliber_10: 10
+        Caliber_11: 11
+        Caliber_12: 26
+        Caliber_13: 27
+        Caliber_14: 31
+        Caliber_15: 34
+        Caliber_16: 30
+        Caliber_17: 302
+        Caliber_18: 303
+        Caliber_19: 304
+        Caliber_20: 305
+        Caliber_21: 307
+        Caliber_22: 311
+        Caliber_23: 318
+        Silenced: 
+        Volume: 0.3
+        Durability: 3
+        Quality_Min: 90
+        Quality_Max: 100
+        Ballistic_Drop: 1.1
+        Blueprints: 1
+        Blueprint_0_Type: Repair
+        Blueprint_0_Supplies: 1
+        Blueprint_0_Supply_0_ID: 67
+        Blueprint_0_Supply_0_Amount: 4
+        Blueprint_0_Tool: 76
+        Blueprint_0_Level: 2
+        Blueprint_0_Skill: Repair
+        Blueprint_0_Build: 27
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Rotex 5 Suppressor
+            Description: Military grade suppressor. Makes gunshots much quieter.
+        }
+        
+    }
+}
+Saker 7.62 {
+    Content {
+        GUID: 3c57b3d875224d19a83c2182d93601bc
+        Type: Barrel
+        Rarity: Epic
+        ID: 38164
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.2
+        Calibers: 3
+        Caliber_0: 30
+        Caliber_1: 711
+        Caliber_2: 747
+        Silenced: 
+        Volume: 0.3
+        Durability: 3
+        Quality_Min: 90
+        Quality_Max: 100
+        Ballistic_Drop: 1.1
+        Blueprints: 1
+        Blueprint_0_Type: Repair
+        Blueprint_0_Supplies: 1
+        Blueprint_0_Supply_0_ID: 67
+        Blueprint_0_Supply_0_Amount: 4
+        Blueprint_0_Tool: 76
+        Blueprint_0_Level: 2
+        Blueprint_0_Skill: Repair
+        Blueprint_0_Build: 27
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Saker 762 Suppressor
+            Description: Military grade suppressor For 7.62x51mm Calibers. Makes gunshots much quieter.
+        }
+        
+    }
+}
+Salvo 12 {
+    Content {
+        GUID: 387e81e0592949e8b14cd2856344c100
+        Type: Barrel
+        Rarity: Epic
+        ID: 38277
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.125
+        Calibers: 7
+        Caliber_0: 42
+        Caliber_1: 8
+        Caliber_2: 73
+        Caliber_3: 701
+        Caliber_4: 709
+        Caliber_5: 710
+        Caliber_6: 720
+        Silenced: 
+        Volume: 0.3
+        Durability: 3
+        Quality_Min: 90
+        Quality_Max: 100
+        Ballistic_Drop: 1.1
+        Blueprints: 1
+        Blueprint_0_Type: Repair
+        Blueprint_0_Supplies: 1
+        Blueprint_0_Supply_0_ID: 67
+        Blueprint_0_Supply_0_Amount: 4
+        Blueprint_0_Tool: 76
+        Blueprint_0_Level: 2
+        Blueprint_0_Skill: Repair
+        Blueprint_0_Build: 27
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Salvo 12 Suppressor
+            Description: Military grade suppressor for shotgun. Makes gunshots much quieter.
+        }
+        
+    }
+}
+SLX68 {
+    Content {
+        GUID: 997450c5b43346499b2856598792832a
+        Type: Barrel
+        Rarity: Epic
+        ID: 38992
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.2
+        Calibers: 2
+        Caliber_0: 780
+        Caliber_1: 797
+        Silenced: 
+        Volume: 0.5
+        Durability: 3
+        Quality_Min: 90
+        Quality_Max: 100
+        Ballistic_Drop: 1.1
+        Blueprints: 1
+        Blueprint_0_Type: Repair
+        Blueprint_0_Supplies: 1
+        Blueprint_0_Supply_0_ID: 67
+        Blueprint_0_Supply_0_Amount: 4
+        Blueprint_0_Tool: 76
+        Blueprint_0_Level: 2
+        Blueprint_0_Skill: Repair
+        Blueprint_0_Build: 27
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: SLX68 Suppressor
+            Description: Military grade suppressor For 6.8x51mm FURY Calibers. Makes gunshots much quieter.
+        }
+        
+    }
+}
+Titan {
+    Content {
+        GUID: 683a9476f83043e0aa7dff341068a1ff
+        Type: Barrel
+        Rarity: Epic
+        ID: 38326
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.175
+        Calibers: 2
+        Caliber_0: 2
+        Caliber_1: 741
+        Silenced: 
+        Volume: 0.3
+        Durability: 3
+        Quality_Min: 90
+        Quality_Max: 100
+        Ballistic_Drop: 1.1
+        Blueprints: 1
+        Blueprint_0_Type: Repair
+        Blueprint_0_Supplies: 1
+        Blueprint_0_Supply_0_ID: 67
+        Blueprint_0_Supply_0_Amount: 4
+        Blueprint_0_Tool: 76
+        Blueprint_0_Level: 2
+        Blueprint_0_Skill: Repair
+        Blueprint_0_Build: 27
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Titan Suppressor
+            Description: Military grade suppressor For Timberwolf and .300WM Calibers. Makes gunshots much quieter.
+        }
+        
+    }
+}
+Tundra {
+    Content {
+        Silenced: SingleValueBool
+        Paintable: SingleValueBool
+        GUID: d5d8a6a1093547f2b0554976bd51c23c
+        Type: Barrel
+        Rarity: Epic
+        ID: 38433
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.125
+        Calibers: 15
+        Caliber_0: 1
+        Caliber_1: 4
+        Caliber_2: 12
+        Caliber_3: 22
+        Caliber_4: 23
+        Caliber_5: 24
+        Caliber_6: 25
+        Caliber_7: 39
+        Caliber_8: 41
+        Caliber_9: 716
+        Caliber_10: 27
+        Caliber_11: 35
+        Caliber_12: 34
+        Caliber_13: 718
+        Caliber_14: 26
+        Volume: 0.3
+        Durability: 3
+        Quality_Min: 90
+        Quality_Max: 100
+        Ballistic_Drop: 1.1
+        Blueprints: 1
+        Blueprint_0_Type: Repair
+        Blueprint_0_Supplies: 1
+        Blueprint_0_Supply_0_ID: 67
+        Blueprint_0_Supply_0_Amount: 4
+        Blueprint_0_Tool: 76
+        Blueprint_0_Level: 2
+        Blueprint_0_Skill: Repair
+        Blueprint_0_Build: 27
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Tundra Suppressor
+            Description: Military grade suppressor. Makes gunshots much quieter.
+        }
+        
+    }
+}
+Accupoint {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 35d22048d4fe4f6d97dbbafa9fdd8e39
+        Type: Sight
+        Rarity: Epic
+        ID: 38192
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.2
+        Spread: 0.6
+        Zoom: 40
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: AccuPoint Scope
+            Description: Rail mounted 40x zoom scope.
+        }
+        
+    }
+}
+Accupoint(x24) {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 96d28ac6793040888c5ddde38535763d
+        Type: Sight
+        Rarity: Epic
+        ID: 38872
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.2
+        Spread: 0.6
+        Zoom: 24
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: AccuPoint Scope(x24)
+            Description: Rail mounted 24x zoom scope.
+        }
+        
+    }
+}
+ACOG {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 4971fb1f37e6473eb842fc23dedd93ef
+        Type: Sight
+        Rarity: Rare
+        ID: 38189
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        Spread: 0.8
+        Zoom: 4
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: ACOG
+            Description: Rail mounted optic x4 advanced combat optical gunsight.
+        }
+        
+    }
+}
+Aimpoint 9000L {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 916d10a9573f43e69056d765cbfa039b
+        Type: Sight
+        Rarity: Rare
+        ID: 38876
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.2
+        Spread: 0.6
+        Zoom: 6
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Aimpoint 9000L
+            Description: Rail mounted 6x zoom scope.
+        }
+        
+    }
+}
+AN-PVS-14 {
+    Content {
+        Paintable: SingleValueBool
+        GUID: bbff9df8c05d48c4a80afa0db8995d7b
+        Type: Sight
+        Rarity: Legendary
+        ID: 39050
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.2
+        Spread: 0.8
+        Zoom: 4
+        Vision: Military
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: AN/PVS-14
+            Description: Rail mounted 4x zoom nightvision scope.
+        }
+        
+    }
+}
+C-More Railway Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: c6de37b5db534841ab4b8aaadf8a3800
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38165
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: C-More Railway Sight
+            Description: Rail mounted sight with electronic aiming point.
+        }
+        
+    }
+}
+C-More Railway Sight+Magnifier {
+    Content {
+        Paintable: SingleValueBool
+        GUID: c48ef259dc14436bbf64fadb3cfeccd2
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38408
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.20
+        Spread: 0.8
+        Zoom: 2
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: C-More Railway Sight W/ Magnifier
+            Description: Rail mounted sight with Magnifier aiming point.
+        }
+        
+    }
+}
+CompCS {
+    Content {
+        Holographic: SingleValueBool
+        Paintable: SingleValueBool
+        GUID: 7860b821ae9741eaadd9e7377a1fa1c5
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38409
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: CompCS
+            Description: Rail mounted sight with electronic aiming Sight.
+        }
+        
+    }
+}
+CompM2 {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 2cc300d77ec6428487311091d08cf3fe
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38193
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: CompM2 Sight
+            Description: Rail mounted sight with electronic aiming point.
+        }
+        
+    }
+}
+CompM2+Magnifier {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 5fb27024960e4bc5bc3a418673203b81
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38410
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.20
+        Spread: 0.8
+        Zoom: 2
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: CompM2 W/ Magnifier
+            Description: Rail mounted sight with Magnifier aiming point.
+        }
+        
+    }
+}
+Conquest {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 56d06a72ded747758b97af95077b6c9f
+        Type: Sight
+        Rarity: Epic
+        ID: 38196
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.2
+        Spread: 0.6
+        Zoom: 25
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Conquest Scope
+            Description: Rail mounted 25x zoom scope.
+        }
+        
+    }
+}
+DCL-110 {
+    Content {
+        Paintable: SingleValueBool
+        GUID: a00e154b2976457f9a79fe810c6fcc9e
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38281
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: DCL-110
+            Description: Rail mounted heavy duty sight with electronic aiming halo.
+        }
+        
+    }
+}
+DCL-110+Magnifier {
+    Content {
+        Paintable: SingleValueBool
+        GUID: d13a2b40a35d4a468b46ad18d69abc0e
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38808
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        Spread: 0.8
+        Zoom: 2
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: DCL-110 W/ Magnifier
+            Description: Rail mounted heavy duty sight with electronic aiming halo.
+        }
+        
+    }
+}
+Digital Hunting Scope {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 005e5acc61bb4a56b5b23ea94253c82e
+        Type: Sight
+        Rarity: Legendary
+        ID: 38170
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.2
+        Spread: 0.6
+        Zoom: 24
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Digital hunter scope
+            Description: Rail mounted 24x zoom digital scope With bulid-in video capture.
+        }
+        
+    }
+}
+Docter Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 20fb21acc0224c7687821582cfe42304
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38304
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Docter Sight
+            Description: Rail mounted sight with electronic aiming halo.
+        }
+        
+    }
+}
+EKP-8-18 {
+    Content {
+        Holographic: SingleValueBool
+        Paintable: SingleValueBool
+        GUID: 5c950becab1b4424b0d3c136e6f18002
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38412
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: EKP-8-18
+            Description: Rail mounted sight with electronic aiming point.
+        }
+        
+    }
+}
+Falcon Gunsight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 94b528725bec46c7959d20a11f066b6f
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38878
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Falcon Gunsight
+            Description: Rail mounted sight with electronic aiming point.
+        }
+        
+    }
+}
+Flip Up Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 91862e1979554cd493bdac6702eddaaf
+        Type: Sight
+        ID: 38280
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Flip Up Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Hi-Lux Red Dot Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 0cd418503e044ce4b73f70bcbb570b8a
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38284
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Hi-Lux Red Dot Sight
+            Description: Rail mounted sight with electronic aiming point.
+        }
+        
+    }
+}
+JH-406 {
+    Content {
+        Paintable: SingleValueBool
+        GUID: d7deb8539ea14cfb8062705151ba2f46
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38279
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: JH-406
+            Description: Rail mounted sight with electronic aiming point.
+        }
+        
+    }
+}
+JH-406+Magnifier {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 879c04f636134640bcd722f3f86258a6
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38414
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.20
+        Spread: 0.8
+        Zoom: 2
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: JH-406 W/ Magnifier
+            Description: Rail mounted sight with Magnifier aiming point.
+        }
+        
+    }
+}
+Kashtan-PM {
+    Content {
+        Paintable: SingleValueBool
+        GUID: efb1159b595748fdb33b4c350d7f26f7
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38415
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.15
+        Spread: 0.8
+        Zoom: 4
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Kashtan-PM
+            Description: Rail mounted optic with electronic aiming Sight.
+        }
+        
+    }
+}
+LS45 {
+    Content {
+        Paintable: SingleValueBool
+        GUID: bb0b8c1e6ae64dcc98bbdb2a44013738
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38416
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        Spread: 0.8
+        Zoom: 4
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: LS45 Laser Scope
+            Description: Rail mounted optic with Laser aiming Sight.
+        }
+        
+    }
+}
+Magnifier {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 063ebb480699495b8582460d22f0574e
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38417
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.05
+        Spread: 0.8
+        Zoom: 2
+        Blueprints: 8
+        Blueprint_0_Type: Tool
+        Blueprint_0_Supplies: 2
+        Blueprint_0_Supply_0_ID: 38417
+        Blueprint_0_Supply_0_Amount: 1
+        Blueprint_0_Supply_1_ID: 38165
+        Blueprint_0_Supply_1_Amount: 1
+        Blueprint_0_Outputs: 1
+        Blueprint_0_Output_0_ID: 38408
+        Blueprint_0_Output_0_Amount: 1
+        Blueprint_1_Type: Tool
+        Blueprint_1_Supplies: 2
+        Blueprint_1_Supply_0_ID: 38417
+        Blueprint_1_Supply_0_Amount: 1
+        Blueprint_1_Supply_1_ID: 38193
+        Blueprint_1_Supply_1_Amount: 1
+        Blueprint_1_Outputs: 1
+        Blueprint_1_Output_0_ID: 38410
+        Blueprint_1_Output_0_Amount: 1
+        Blueprint_2_Type: Tool
+        Blueprint_2_Supplies: 2
+        Blueprint_2_Supply_0_ID: 38417
+        Blueprint_2_Supply_0_Amount: 1
+        Blueprint_2_Supply_1_ID: 38279
+        Blueprint_2_Supply_1_Amount: 1
+        Blueprint_2_Outputs: 1
+        Blueprint_2_Output_0_ID: 38414
+        Blueprint_2_Output_0_Amount: 1
+        Blueprint_3_Type: Tool
+        Blueprint_3_Supplies: 2
+        Blueprint_3_Supply_0_ID: 38417
+        Blueprint_3_Supply_0_Amount: 1
+        Blueprint_3_Supply_1_ID: 38194
+        Blueprint_3_Supply_1_Amount: 1
+        Blueprint_3_Outputs: 1
+        Blueprint_3_Output_0_ID: 38194
+        Blueprint_3_Output_0_Amount: 1
+        Blueprint_4_Type: Tool
+        Blueprint_4_Supplies: 2
+        Blueprint_4_Supply_0_ID: 38417
+        Blueprint_4_Supply_0_Amount: 1
+        Blueprint_4_Supply_1_ID: 38397
+        Blueprint_4_Supply_1_Amount: 1
+        Blueprint_4_Outputs: 1
+        Blueprint_4_Output_0_ID: 38427
+        Blueprint_4_Output_0_Amount: 1
+        Blueprint_5_Type: Tool
+        Blueprint_5_Supplies: 2
+        Blueprint_5_Supply_0_ID: 38417
+        Blueprint_5_Supply_0_Amount: 1
+        Blueprint_5_Supply_1_ID: 38287
+        Blueprint_5_Supply_1_Amount: 1
+        Blueprint_5_Outputs: 1
+        Blueprint_5_Output_0_ID: 38431
+        Blueprint_5_Output_0_Amount: 1
+        Blueprint_6_Type: Tool
+        Blueprint_6_Supplies: 2
+        Blueprint_6_Supply_0_ID: 38417
+        Blueprint_6_Supply_0_Amount: 1
+        Blueprint_6_Supply_1_ID: 38418
+        Blueprint_6_Supply_1_Amount: 1
+        Blueprint_6_Outputs: 1
+        Blueprint_6_Output_0_ID: 38420
+        Blueprint_6_Output_0_Amount: 1
+        Blueprint_7_Type: Tool
+        Blueprint_7_Supplies: 2
+        Blueprint_7_Supply_0_ID: 38417
+        Blueprint_7_Supply_0_Amount: 1
+        Blueprint_7_Supply_1_ID: 38424
+        Blueprint_7_Supply_1_Amount: 1
+        Blueprint_7_Outputs: 1
+        Blueprint_7_Output_0_ID: 38425
+        Blueprint_7_Output_0_Amount: 1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Magnifier
+            Description: Rail mounted sight with Magnifier aiming point. Can be attach on red dot sight.
+        }
+        
+    }
+}
+Mark 8 CQBSS {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 2981c9f5af4445e790a37f097b2e0379
+        Type: Sight
+        Rarity: Rare
+        ID: 38887
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.2
+        Spread: 0.6
+        Zoom: 8
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Mark 8 CQBSS
+            Description: Rail mounted 8x zoom scope.
+        }
+        
+    }
+}
+Micro T1 {
+    Content {
+        Holographic: SingleValueBool
+        Paintable: SingleValueBool
+        GUID: cd7bb77ad0ac4a0b95c086ee97db61ef
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38418
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Micro T1
+            Description: Rail mounted sight with electronic aiming halo.
+        }
+        
+    }
+}
+Mrcro T1+Magnifier {
+    Content {
+        Paintable: SingleValueBool
+        GUID: fe41059098fe45dbb33b39ba8db813d2
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38420
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.20
+        Spread: 0.8
+        Zoom: 2
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Mrcro T1 W/ Magnifier
+            Description: Rail mounted sight with Magnifier aiming point.
+        }
+        
+    }
+}
+MRO {
+    Content {
+        Holographic: SingleValueBool
+        Paintable: SingleValueBool
+        GUID: ef776e29cd0d468c81cb96d1a6122dca
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38880
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: MRO
+            Description: Rail mounted sight with electronic aiming Sight.
+        }
+        
+    }
+}
+PMII 5-25x56 {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 2229cffbe9884104b5f4a2ddd5439872
+        Type: Sight
+        Rarity: Epic
+        ID: 38812
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.2
+        Spread: 0.6
+        Zoom: 25
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: PMII 5-25x56 Scope
+            Description: Rail mounted 25x zoom scope.
+        }
+        
+    }
+}
+RAD {
+    Content {
+        Holographic: SingleValueBool
+        Paintable: SingleValueBool
+        GUID: a96734bf14644803a1f08c91bed24e00
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38424
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: MRAD Sight
+            Description: Rail mounted sight with electronic aiming halo.
+        }
+        
+    }
+}
+RAD+Magnifier {
+    Content {
+        Paintable: SingleValueBool
+        GUID: a1cc6035602a42ae9a336285038dbf83
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38425
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.20
+        Spread: 0.8
+        Zoom: 2
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: MRAD Sight W/ Magnifier
+            Description: Rail mounted sight with Magnifier aiming point.
+        }
+        
+    }
+}
+Rakrus PM {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 021f4876921d4b8aad0354ff34f34884
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38194
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Rakrus PM Sight
+            Description: Rail mounted sight with electronic aiming point.
+        }
+        
+    }
+}
+Rakrus PM+Magnifier {
+    Content {
+        Paintable: SingleValueBool
+        GUID: ef9327f1ba4548daa48ae9a8cf2b2ddb
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38426
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.20
+        Spread: 0.8
+        Zoom: 2
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Rakrus PM W/ Magnifier
+            Description: Rail mounted sight with Magnifier aiming point.
+        }
+        
+    }
+}
+Refex Sight {
+    Content {
+        Holographic: SingleValueBool
+        Paintable: SingleValueBool
+        GUID: 191bb993621347c2be7122a7baa52749
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38397
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Dot Sight
+            Description: Rail mounted sight with electronic aiming point.
+        }
+        
+    }
+}
+Refex Sight+Magnifier {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 818b077869094bfbb7758cabf84a0db5
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38427
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.20
+        Spread: 0.8
+        Zoom: 2
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Refex Sight W/ Magnifier
+            Description: Rail mounted sight with Magnifier aiming point.
+        }
+        
+    }
+}
+RMR {
+    Content {
+        Paintable: SingleValueBool
+        GUID: ab0fdce515c44d0487cd3ee2d12101c7
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38286
+        Size_X: 1tt
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: RMR
+            Description: Rail mounted sight with electronic aiming halo.
+        }
+        
+    }
+}
+Shortdot {
+    Content {
+        Paintable: SingleValueBool
+        GUID: af8571963c1d442fa9d7214dbf116782
+        Type: Sight
+        Rarity: Epic
+        ID: 38430
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.2
+        Spread: 0.6
+        Zoom: 16
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Shortdot Scope
+            Description: Rail mounted 16x zoom scope.
+        }
+        
+    }
+}
+Spectre DR {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 919e710a6d084d8cbb8cd6ee583f9f88
+        Type: Sight
+        Rarity: Rare
+        ID: 38195
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.2
+        Spread: 0.7
+        Zoom: 6
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Spectre DR Scope
+            Description: Rail mounted 4x zoom scope.
+        }
+        
+    }
+}
+SRS {
+    Content {
+        Paintable: SingleValueBool
+        GUID: ef8227343f0f4e518e4da91edfece477
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38287
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: SRS
+            Description: Rail mounted sight with electronic aiming halo.
+        }
+        
+    }
+}
+SRS+Magnifier {
+    Content {
+        Paintable: SingleValueBool
+        GUID: ea0bff2aa8c04df59659a3dc1795d62a
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38431
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.20
+        Spread: 0.8
+        Zoom: 2
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: SRS W/ Magnifier
+            Description: Rail mounted sight with Magnifier aiming point.
+        }
+        
+    }
+}
+TriTAC {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 26d527b18f13447cb4076d890f541d50
+        Type: Sight
+        Rarity: Epic
+        ID: 38884
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.2
+        Spread: 0.6
+        Zoom: 32
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: TriTAC Scope
+            Description: Rail mounted 32x zoom scope.
+        }
+        
+    }
+}
+VCOG {
+    Content {
+        Paintable: SingleValueBool
+        GUID: e046afb0c8494e17a911d210062b3beb
+        Type: Sight
+        Rarity: Epic
+        ID: 38434
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.2
+        Spread: 0.6
+        Zoom: 20
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: VCOG Scope
+            Description: Rail mounted 20x zoom scope.
+        }
+        
+    }
+}
+XPS2 {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 472a9d05322742ad876fde355ea5ad97
+        Type: Sight
+        Rarity: Uncommon
+        ID: 38879
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: XPS2
+            Description: Rail mounted sight with electronic aiming halo.
+        }
+        
+    }
+}
+AC556 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: b4fdeec50ad04efd971059b2aef8f1fe
+        Type: Sight
+        ID: 38704
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: AC556 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+ACE Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: d3f035cd948f466da4fcd331bc2fc312
+        Type: Sight
+        ID: 38716
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Galil ACE Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+ACP-95 Iron Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 71b6ac00f8fa470bac93ef50eca5f8c6
+        Type: Sight
+        ID: 38889
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: ACP-95 Iron Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Ak 5C Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: bccdea1f396e4abfaf71dd27ce7e7e14
+        Type: Sight
+        ID: 38703
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Ak-5 Iron Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+AR-18 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 2af21bc334db4079aa979d7dc56369b1
+        Type: Sight
+        ID: 38890
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: AR-18 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+AR-70-223 Iron Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 4e00c603574945f6a2baeeb40141dfce
+        Type: Sight
+        ID: 38891
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: AR-70-223 Iron Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+AR-70-90 Iron Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 201659ba91df44dc8b9443ee5834566b
+        Type: Sight
+        ID: 38521
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: AR-70-90 Carrying Handle
+            Description: Removeable Rail mounted iron sights.
+        }
+        
+    }
+}
+CETME Model L Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: cc872987de1345c38a0d77f71f52640c
+        Type: Sight
+        ID: 38892
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: CETME Model L Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+CMCR Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 49158adddd284538882950636d6fa7d0
+        Type: Sight
+        ID: 38950
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: CMCR Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+DD A1.5 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 6ba5a1f803a6453682c0daffdef490c2
+        Type: Sight
+        ID: 38718
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: DD A1.5 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+DD A1.5 Sight Long {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 48eecb471fb04d2fb73b3aedde7dcabe
+        Type: Sight
+        ID: 38728
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: DD A1.5 Sight Long
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+DD A1.5 Sight short {
+    Content {
+        Paintable: SingleValueBool
+        GUID: ba8761cec9494a51823b4031d30ab484
+        Type: Sight
+        ID: 38719
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: DD A1.5 Sight short
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+FARA 83 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 30091a7c78f140d3bf4f657792d11ff3
+        Type: Sight
+        ID: 38731
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: FARA 83 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+FNC Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 211af2779dc744a98648fdd423c017eb
+        Type: Sight
+        ID: 38893
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: FNC Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+G11 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: f9876b20d6664a4e8411f73fdbb84bea
+        Type: Sight
+        ID: 38721
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: G11 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Galil Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: a0af67eb7f3244e89bb23a96a8670910
+        Type: Sight
+        ID: 38713
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Galil Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+INSAS Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 104309cd7bd74e11829500cfdb624695
+        Type: Sight
+        ID: 38714
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 2
+        English {
+            Name: INSAS Sight
+            Description: Rail mounted iron sights.
+        }
+        English {
+            Name: INSAS Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+M17S Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 49c72c47aa09442c9a34a8be92798d57
+        Type: Sight
+        ID: 38722
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: M17S Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+QBZ-03 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: f905399c675541c38bc8f89b2bf70d66
+        Type: Sight
+        ID: 38723
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: QBZ-03 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+QBZ-97 Iron Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 883c1d6fd518432382f4889d651931ff
+        Type: Sight
+        ID: 38293
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: QBZ-97 Iron Sight
+            Description: Removeable Rail mounted iron sights for QB Series.
+        }
+        
+    }
+}
+SAR-21 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 8411149247904b68b58478ffbc44213c
+        Type: Sight
+        ID: 38895
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        Zoom: 3
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: SAR-21 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+SAR-80 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: f52701655e4547878862c7c794ead401
+        Type: Sight
+        ID: 38896
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: SAR-80 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+SG 540 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: e8dccb5807f04ea58c79afffb077dffc
+        Type: Sight
+        ID: 38724
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: SG 540 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+SR-88 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 0d46010876dd4fbf89fab32fea246b90
+        Type: Sight
+        ID: 38897
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: SR-88 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+SS1 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: cfb4271556174db1bcfc3c2e5a530dbe
+        Type: Sight
+        ID: 38898
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: SS1 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Stoner 63 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: a5df6391764d45b89f9a59e89ad7c5e4
+        Type: Sight
+        ID: 38725
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Stoner 63 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+SUSAT {
+    Content {
+        Paintable: SingleValueBool
+        GUID: f925cade716449e99efb2f1037857cab
+        Type: Sight
+        ID: 38702
+        Rarity: Rare
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        Spread: 0.8
+        Zoom: 8
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: SUSAT Sight
+            Description: Removeable Rail mounted x1.5 sights.
+        }
+        
+    }
+}
+T-18 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 2c379d74ec8149ebb71767dae827d045
+        Type: Sight
+        ID: 38701
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: T-18 Sight
+            Description: Removeable Rail mounted iron sights.
+        }
+        
+    }
+}
+T65 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: ed79627ac7b346acaaff7d3b7a01766d
+        Type: Sight
+        ID: 38899
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: T65 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+TKB-0146 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: c69c1a47be2e40dba2d6319b58f0ba28
+        Type: Sight
+        ID: 38900
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: TKB-0146 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Type 81 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: ff082f706ee84aac9af4c22ea16639e6
+        Type: Sight
+        ID: 38726
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Type 81 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Type 89 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: e240c34360be4c2c8aca2b4339fe017f
+        Type: Sight
+        ID: 38727
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Type 89 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Valmet M76 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 86825bab64784d5a97d2c2e153699a2d
+        Type: Sight
+        ID: 38901
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Valmet M76 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+VHS-2 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 0f04691eb8e9422f92906f1ad8e8fc43
+        Type: Sight
+        ID: 38734
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: VHS-2 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+ZK 503 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: d5107fff0f1b4d3b8b00f53fa671241b
+        Type: Sight
+        ID: 38902
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: ZK 503 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+CM901 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: e2546315194645e1af5af3b071388090
+        Type: Sight
+        ID: 38717
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: CM901 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+EM2 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 92d3e8a2d3c44d24a9d99f805f6064f6
+        Type: Sight
+        ID: 38720
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.3
+        Spread: 0.8
+        Zoom: 2
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: EM2 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+FAL Iron Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 514339a3306943119464572b22238f9a
+        Type: Sight
+        ID: 38705
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: FAL Iron Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+FN49 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: ae86d51e840d4f5ba5b5f60c6d5a5f2a
+        Type: Sight
+        ID: 38735
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: FN49 Iron Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+FR-8 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 199a016064e54c419747c277e2887d4a
+        Type: Sight
+        ID: 39056
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: FR-8 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+M14 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 40c34a80c434404aa0dfbaf805bcf77e
+        Type: Sight
+        ID: 39063
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: M14 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Madsen LAR Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 8406e4f6140d4f2a8d0093e6f3135ecf
+        Type: Sight
+        ID: 38715
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Madsen LAR Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Type 64 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 62e4539d935b44ef8c4bc00069d1de03
+        Type: Sight
+        ID: 38708
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Type 64 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+XM-157 FCS {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 9e9dc2080df84422ac9c3f26d5d323a0
+        Type: Sight
+        ID: 38993
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        Zoom: 3
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: XM-157 FCS
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Zhongzheng Rifle Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 00ac06aef1714bc998db6e9a4d6bf894
+        Type: Sight
+        ID: 38903
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Zhongzheng Rifle Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+AK-5c Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: d2e31d22df3649c1a568ba5d58cb1a1e
+        Type: Sight
+        ID: 38736
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: AK-5c Sight
+            Description: Removeable Rail mounted iron sights
+        }
+        
+    }
+}
+CGA5P Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: b4ac61b499e444c7886696a55ce26b36
+        Type: Sight
+        ID: 38436
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        Spread: 0.8
+        Zoom: 2
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: CGA5P Carrying Handle
+            Description: Removeable Rail mounted iron sights for CGA5P.
+        }
+        
+    }
+}
+CQ5.56A Carrying Handle {
+    Content {
+        Paintable: SingleValueBool
+        GUID: f8e7ae3093d3413e9e82759d90db74a9
+        Type: Sight
+        ID: 38435
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: CQ-A Carrying Handle 
+            Description: Removeable Rail mounted iron sights for CQ-A.
+        }
+        
+    }
+}
+FX-05 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: d86125740511443cb28f83fba2a96f26
+        Type: Sight
+        ID: 38733
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: FX-05 Sight
+            Description: Removeable Rail mounted iron sights.
+        }
+        
+    }
+}
+HK416C Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 7e672ac22d574af3986c53c0a70522df
+        Type: Sight
+        ID: 39059
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: HK416C Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+T-17 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: e948ba6d67dd42e2b1aceac290834811
+        Type: Sight
+        ID: 38700
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: T-17 Sight
+            Description: Removeable Rail mounted iron sights.
+        }
+        
+    }
+}
+T2 MK5 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: bf1c14e10dba4728a491d33796f74850
+        Type: Sight
+        ID: 38904
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: T2 MK5 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+T91 Carrying Handle {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 0ae47027cb3546ee943aac737797540d
+        Type: Sight
+        ID: 38249
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: T91 Carrying Handle
+            Description: Removeable Rail mounted iron sights for T91.
+        }
+        
+    }
+}
+TKB-022 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 23e97ae942004a6fbc6477fbb4ac3d2a
+        Type: Sight
+        ID: 38905
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: TKB-022 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Type 56 Carbine Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: e091b3ac2d004c53a7177c6cb4786762
+        Type: Sight
+        ID: 38906
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Type 56 Carbine Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Type 56C Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 3509e5121f544584ad9ea01c155fc4ce
+        Type: Sight
+        ID: 38907
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Type 56C Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+wz 89 Onyks Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 588519b94ef94104ba9dbae6e6263b15
+        Type: Sight
+        ID: 38908
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: wz 89 Onyks Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Zastava M92 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 3aca7e56521b496e93cf15a1170eea7b
+        Type: Sight
+        ID: 38909
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Zastava M92 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+AK Carbine Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 0261265b9bf4482799a86fab9af3f8ba
+        Type: Sight
+        ID: 38813
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: AK Carbine Sight
+            Description: Removeable mounted iron sights.
+        }
+        
+    }
+}
+AK Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 2611705f61b64f7291cc01ab3445cbee
+        Type: Sight
+        ID: 38699
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: AK Iron Sight
+            Description: Removeable mounted iron sights.
+        }
+        
+    }
+}
+AR-15 Carrying Handle {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 3a309dc362b248b6a8410f64452f554a
+        Type: Sight
+        ID: 38732
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: AR-15 Carrying Handle
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Arisaka Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: b236d5bef2fe4e6ba01f18389a7ae3f1
+        Type: Sight
+        ID: 38751
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Arisaka Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+BUIS Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: fd2e5c159dd34b9ca5ef45097554566b
+        Type: Sight
+        ID: 38947
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: BUIS Sight
+            Description: Removeable Rail mounted iron sights.
+        }
+        
+    }
+}
+Filp up Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: bbfca8271058411abcf21142e9274cbc
+        Type: Sight
+        ID: 38695
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Flip up Sight
+            Description: Removeable Rail mounted iron sights.
+        }
+        
+    }
+}
+Filp up Sight Black {
+    Content {
+        Paintable: SingleValueBool
+        GUID: b6abc50725cd40b9969ca00232b59852
+        Type: Sight
+        ID: 38697
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Flip up Sight(Black)
+            Description: Removeable Rail mounted iron sights.
+        }
+        
+    }
+}
+Filp up Sight Short {
+    Content {
+        Paintable: SingleValueBool
+        GUID: a319721542704e7f98f4d45d1142f583
+        Type: Sight
+        ID: 38696
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Flip up Sight(Short)
+            Description: Removeable Rail mounted iron sights.
+        }
+        
+    }
+}
+Filp up Sight Short Black {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 29024f0596c04e2d9043eb249f345002
+        Type: Sight
+        ID: 38698
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Flip up Sight(Short Black)
+            Description: Removeable Rail mounted iron sights.
+        }
+        
+    }
+}
+HK Drum Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 87d2bce6990a4c89b57f75f4ad7e6cc9
+        Type: Sight
+        ID: 38711
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: HK Drum Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+HK Iron Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 63b3f8af01c5422e9617a41ed130a6b2
+        Type: Sight
+        ID: 38291
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: HK Iron Sight
+            Description: Removeable Rail mounted iron sights for HK Series.
+        }
+        
+    }
+}
+Iron Sight For Carrying Handle {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 85e6333a677a4982a982c4c069192223
+        Type: Sight
+        ID: 38282
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: JS 9mm Iron Sight
+            Description: Removeable Rail mounted iron sights for JS 9mm.
+        }
+        
+    }
+}
+Mauser Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: e7decc62e10e406e81a8508f3665422e
+        Type: Sight
+        ID: 38753
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Mauser Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+ARWEN 37 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: e15a129f352c4c59b6384ce20b6f5425
+        Type: Sight
+        ID: 38757
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: ARWEN 37 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+ARWEN ACE Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 6bdddcbb17ab4524b9f8c0476477ab3b
+        Type: Sight
+        ID: 38758
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: ARWEN ACE Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+B300 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: b30c661971c847c9929d1f6d7d5e2fff
+        Type: Sight
+        ID: 38755
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: B300 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+CIS 40 GL Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: cc685015bf9d4bef9f9a0a6a19392e29
+        Type: Sight
+        ID: 38910
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: CIS 40 GL Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+FCS12 {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 920942c88c664024ad8bb57ade037969
+        Type: Sight
+        ID: 38756
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        Spread: 0.8
+        Zoom: 6
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: FCS12
+            Description: Rail mounted fire control system sights.
+        }
+        
+    }
+}
+GL-06 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 68fa8fcd47b7480c98809a285ab82085
+        Type: Sight
+        ID: 38911
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: GL-06 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Grenade Lancher Iron Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 28b1ea4342ac4be6b60ab1f63c51a98d
+        Type: Sight
+        ID: 38306
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Grenade Lancher Iron Sights
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+HK169 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 4f9a510c050a4488b60474090bf068d0
+        Type: Sight
+        ID: 38946
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: HK169 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Milkor Stopper Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: ff71cd38bcc640978a0f43ab8aa6e14d
+        Type: Sight
+        ID: 38912
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Milkor Stopper Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Sage Control Deuce Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 76fd4ec8b45f4cbdaf5ced8bedda395c
+        Type: Sight
+        ID: 38759
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Sage Control Deuce Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+SL-6 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: f708c303912c4d09997b1e27e31bd54c
+        Type: Sight
+        ID: 38760
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: SL-6 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Type 91 MANPADS Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 05d1908cc385410f9d3ef798b21181f2
+        Type: Sight
+        Rarity: Mythical
+        ID: 38314
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.2
+        Spread: 0.7
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Type 91 MANPADS Scope Scope
+            Description: Rail mounted Type 91 MANPADS scope.
+        }
+        
+    }
+}
+XM25 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 0c6c9dac67694557b0edd5aa811c5090
+        Type: Sight
+        ID: 38640
+        Size_X: 2
+        Size_Y: 1
+        Size_Z: 0.1
+        Spread: 0.8
+        Zoom: 6
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: XM25 Sight
+            Description: Rail mounted fire control system sights.
+        }
+        
+    }
+}
+=M14E2 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 9459abe6a66547a381b5422c1465d237
+        Type: Sight
+        ID: 38744
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: M14E2 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+BAR Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 46edca88982d44b5b152357639627528
+        Type: Sight
+        ID: 38741
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: BAR Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+HK121 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 857820e381444b4b8bd29287b8a0dab1
+        Type: Sight
+        ID: 38742
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: HK121 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Hotchkiss M1922 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 57f0349ef9f6460597e599c447a89086
+        Type: Sight
+        ID: 38913
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Hotchkiss M1922 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+K12 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: caab8846846b4a9cb975342911ba5d2c
+        Type: Sight
+        ID: 38743
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: K12 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+LMG Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 131219fdeb4b444b8ef530b0bf9785a4
+        Type: Sight
+        ID: 38712
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: LMG Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+LS-26 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 297e14a54c3f4075a0c6a4499ad7eea1
+        Type: Sight
+        ID: 38914
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: LS-26 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+M60 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 250e3dcec45b4aba835c2d7fb5773ebf
+        Type: Sight
+        ID: 38745
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: M60 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+MAG-58 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 34f6701e4ec1495fa9bfde84e47dbe78
+        Type: Sight
+        ID: 38915
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: MAG-58 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+MG 50 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 7ac847be8535434ab69f3acf810cc3a2
+        Type: Sight
+        ID: 38916
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: MG 50 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+MG 710 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 2d7aca88d68a4c3f9c8b50f97645db6b
+        Type: Sight
+        ID: 38918
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: MG 710 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+MG 81Z Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 2a4b0f2e3654402db3efc786db6ec7a1
+        Type: Sight
+        ID: 38917
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+MG15NA Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 3465e3b6dc564dadbac8e2de2234ea89
+        Type: Sight
+        ID: 38746
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: MG15NA Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Negev Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 949a4da289414cba83e728c9ade778c8
+        Type: Sight
+        ID: 38747
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Negev Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+NTK-62 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 7e9fb641ff284e65a48f23ff40ff85e4
+        Type: Sight
+        ID: 38748
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: NTK-62 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+PKM Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 84bb31fbf6b245ba877eae7598490c7e
+        Type: Sight
+        ID: 38919
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: PKM Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Short LMG Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 2489b3b5b226451591ce21146ee5b301
+        Type: Sight
+        ID: 38749
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Short LMG Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+SS-77 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: c162347e5de14528ace75710e21cb28e
+        Type: Sight
+        ID: 38709
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: SS-77 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Type 67-2 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 01b9b6f3fb8f490c8a47b942c2dd83fd
+        Type: Sight
+        ID: 38730
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Type 67-2 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Type 92 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 2df309a6a10d4bdfa3831dd82065079a
+        Type: Sight
+        ID: 38920
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Type 92 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+UK vz 59 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 1212bdeca3c7446fadcc262c068eced7
+        Type: Sight
+        ID: 38750
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: UK vz 59 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Ultimax 100 MK8 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 814ce9f823bd4fcead37cdd94f71f899
+        Type: Sight
+        ID: 38922
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Ultimax 100 MK8 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Ultimax 100 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: fe84aeb486344aeaaa72bfa8b6d9c1b7
+        Type: Sight
+        ID: 38921
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Ultimax 100 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+AR-7 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: d7d9153ee7aa4bfcaa727cc39aefee2d
+        Type: Sight
+        ID: 38752
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: AR-7 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Enfield Pattern 1853 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: c7aae6eb75a24c7dace9c595bd1e6a68
+        Type: Sight
+        ID: 38923
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Enfield Pattern 1853 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Remington 7615P Patrol Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: d65d5cc7305a4d4188a99e7f47df6a62
+        Type: Sight
+        ID: 38924
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Remington 7615P Patrol Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Ruger 77 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 2189690efe3a4bee90fb688a5a8f86d9
+        Type: Sight
+        ID: 38754
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Ruger 77 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Sako 85 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 1a7029cbc77b40c58bd36b875fb42fb4
+        Type: Sight
+        ID: 38925
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Sako 85 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Winchester model 88 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: bfce34ba57e64b55a5bf2abf423a15ae
+        Type: Sight
+        ID: 38926
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Winchester model 88 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+CAWS Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 322b487ac4eb45248b8a93e558998712
+        Type: Sight
+        ID: 38927
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: CAWS Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Ghost Ring Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 2d7061a31a2547b6b41b44890014a6e5
+        Type: Sight
+        ID: 38928
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Ghost Ring Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Hawk 372 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: a76b84689c12460bbcd7b0f4b571a427
+        Type: Sight
+        ID: 38929
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Hawk 372 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Hawk 982 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: ff9a617ee220412d9c0225c1ac5507c7
+        Type: Sight
+        ID: 38930
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Hawk 982 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+K-1200 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 2e4c27447a4d458888a198f6499a6a22
+        Type: Sight
+        ID: 38931
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: K-1200 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+MAG-7 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: befa43ed8f59490384ca8afc8b824736
+        Type: Sight
+        ID: 38932
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: MAG-7 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+QBS-09 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 328688c77ce9400b8e2ca363a54ed8c2
+        Type: Sight
+        ID: 38933
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: QBS-09 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+TPS Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 78c0e876c342461690579d156ffb4d69
+        Type: Sight
+        ID: 38934
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: TPS Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+XY-10 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: fac46fd0f2a548f7b4a8d2ee7a36261c
+        Type: Sight
+        ID: 38710
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: XY-10 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+YL 12-1JZ Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 0407ac8149b6431aa0a61f61cba10c50
+        Type: Sight
+        ID: 38935
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+TAC20 Carrying Handle {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 3f11b0a70aa744d1b6f7729f75d17bf6
+        Type: Sight
+        ID: 38292
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: TAC20 Carrying Handle
+            Description: Removeable Rail mounted iron sights for T81.
+        }
+        
+    }
+}
+=BJC-16 Iron Sight {
+    Content {
+        Paintable: SingleValueBool
+        Type: Sight
+        ID: 38XXX
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: BJC-16 Iron Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+APC9 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 92ae084ea5e049ca80ac297337f818c5
+        Type: Sight
+        ID: 38761
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: AC556 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+AUG A3 9mm XS Iron Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 1445606d552f4d3ea9dbe6bb6322b428
+        Type: Sight
+        ID: 38506
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: AUG A3 9mm XS Iron Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Bushmaster Armpistol Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 7a10e4e8fa544205868c4b802cec7c23
+        Type: Sight
+        ID: 38763
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Bushmaster Armpistol Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+CF-05 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 545308a1801d40e3bd104854e4d68a7c
+        Type: Sight
+        ID: 38948
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: CF-05 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Cobra LDP Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 73bc64299df049dbaa15ba1705698c3c
+        Type: Sight
+        ID: 38764
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Cobra LDP Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+CS-LS5 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 260aa7c1f3bd4cf2850e9d26ce7dd5ff
+        Type: Sight
+        ID: 38765
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: CS-LS5 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+FMG-9 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 5bfd365648214045a1384b91eb1ba106
+        Type: Sight
+        ID: 38766
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: FMG-9 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Hotchkiss Type Universal Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 090ecf69cc7a4943ad5dc9dda9b62013
+        Type: Sight
+        ID: 38767
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Hotchkiss Type Universal Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Hovea 1949 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 21a000a581a24c72adab7ce35833ec4e
+        Type: Sight
+        ID: 38768
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Hovea 1949 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+JS 9mm Iron Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 5cce212b17ca40809fade75999abff18
+        Type: Sight
+        ID: 38303
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: JS 9mm Iron Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+K-50M Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 16f86b9dec924f9a8153881d937e2369
+        Type: Sight
+        ID: 38707
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: K-50M Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Kiraly Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 18fc35c394db47c78a7bde935877b48f
+        Type: Sight
+        ID: 38769
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Kiraly Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Lusa Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 7c2aed4218034d1ea88cf2f3c159027f
+        Type: Sight
+        ID: 38762
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Lusa Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+M11-9 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 171379d4341a4f17905633165154130d
+        Type: Sight
+        ID: 38770
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: M11-9 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Madsen M50 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 27a7874dd234497aa079a431c90156c8
+        Type: Sight
+        ID: 38771
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Madsen M50 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+MKMS Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 5a3ecb84d03b405aac5e9798a4dba1a2
+        Type: Sight
+        ID: 38772
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: MKMS Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Modelo 1949EA Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: ad13a5381dde484e9b7a5f4cdb5b130b
+        Type: Sight
+        ID: 38773
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Modelo 1949EA Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+MP-10 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 95fa721ee436474a9e6b63300d9d1b6b
+        Type: Sight
+        ID: 38949
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: MP-10 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+MP28 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: ba184c5de2544b61865f0c0faae005d5
+        Type: Sight
+        ID: 38774
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: MP28 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+MP35 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: fa92fa07dafa42d3b6c04df57a251406
+        Type: Sight
+        ID: 38775
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: MP35 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+MP60 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: a4208b640fc04f09ba6e533d9e418677
+        Type: Sight
+        ID: 38776
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: MP60 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+MPK Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 1a8d47ea994b4139985ec8b33a2abdbf
+        Type: Sight
+        ID: 38777
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: MPK Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+PAM 1 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 7b8efeeaad7b413c807e6844bfab1940
+        Type: Sight
+        ID: 38778
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: PAM 1 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Parinco Model 3R Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: ca960c4d6332469eb90fce1100368dfa
+        Type: Sight
+        ID: 38779
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Parinco Model 3R Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+PM-2 V2 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 335c998479634f259ed5f61e01e6daca
+        Type: Sight
+        ID: 38945
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: PM2 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+PM-84 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: d6fbdf66533d40d19c8660176cd685d6
+        Type: Sight
+        ID: 38937
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: PM-84 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+PM-98 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: a32d34542f554628ba23e457588cf957
+        Type: Sight
+        ID: 38938
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: PM-98 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+PM12S Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 637aca07b8c44813b66dbe9c9e5f57df
+        Type: Sight
+        ID: 38936
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: PM12S Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+PM2 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: e22903e393384b1888978cc7d292a483
+        Type: Sight
+        ID: 38780
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: PM2 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+PP-91 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 793ab7e696ee40a484121e0f15d6c7af
+        Type: Sight
+        ID: 38781
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: PP-91 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Shipka Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: b92822133ebe41eba182694c1ba864b0
+        Type: Sight
+        ID: 38939
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Shipka Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Spitfire Carbine Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 55093461581a42ee8ba71f3eac49028f
+        Type: Sight
+        ID: 38782
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Spitfire Carbine Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Star Z62 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 5b5041747a6d4c2588d28cbd36a9501a
+        Type: Sight
+        ID: 38942
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Star Z62 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+SW M76 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 451c62118f9b4d4fa0ff91a0dde4d689
+        Type: Sight
+        ID: 38783
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: SW M76 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+T-77 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 621d3218bfce415b8a41a61f42059c34
+        Type: Sight
+        ID: 38943
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: T-77 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Tokarev 1927 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 8e2114b49ef54a7e9db8837e18550b22
+        Type: Sight
+        ID: 38784
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Tokarev 1927 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Type 64 SMG Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 5b49369b8ac94754b0c8a731c7eb2cbc
+        Type: Sight
+        ID: 38944
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Type 64 SMG Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Type 85 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 9299c5a8a15b4065a62282a52f119a27
+        Type: Sight
+        ID: 38806
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Type 85 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+UC-M21 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: fe7a4f99aa6a4bb48a49b76ded943f8c
+        Type: Sight
+        ID: 38785
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: UC-M21 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Uzi Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: fc9d4edce4944d4aad27dd9244a89fef
+        Type: Sight
+        ID: 38940
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Uzi Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Vigneron M2 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: a1f70b5934ca4978a042c2f00e2f3a13
+        Type: Sight
+        ID: 38786
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Vigneron M2 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}
+Zastava M56 Sight {
+    Content {
+        Paintable: SingleValueBool
+        GUID: 9bbbb006129e4b27b777ddd992eb4069
+        Type: Sight
+        ID: 38941
+        Size_X: 1
+        Size_Y: 1
+        Size_Z: 0.1
+        
+    }
+    Translations {
+        Count: 1
+        English {
+            Name: Zastava M56 Sight
+            Description: Rail mounted iron sights.
+        }
+        
+    }
+}

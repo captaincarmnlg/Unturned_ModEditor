@@ -1,4 +1,5 @@
 ﻿using Core.Context.Common;
+using Core.Context.Enums.Item.Blueprint;
 
 namespace Core.Context.Models.Item.Blueprint
 {

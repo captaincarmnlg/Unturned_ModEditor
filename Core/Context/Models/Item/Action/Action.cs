@@ -1,4 +1,6 @@
-﻿namespace Core.Context.Models.Item.Action
+﻿using Core.Context.Enums.Item.Action;
+
+namespace Core.Context.Models.Item.Action
 {
     public class Action
     {

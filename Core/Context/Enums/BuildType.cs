@@ -1,0 +1,43 @@
+﻿namespace Core.Context.Enums
+{
+    public enum BuildType
+    {
+        Barrel_Rain,
+        Barricade,
+        Bed,
+        Cage,
+        Campfire,
+        Charge,
+        Claim,
+        Clock,
+        Door,
+        Farm,
+        Fortification,
+        Freeform,
+        Gate,
+        Glass,
+        Generator,
+        Hatch,
+        Ladder,
+        Library,
+        Mannequin,
+        Note,
+        Oil,
+        Oven,
+        Oxygenator,
+        Safezone,
+        Sentry,
+        Shutter,
+        Sign,
+        Sign_Wall,
+        Storage,
+        Storage_Wall,
+        Spike,
+        Spot,
+        Stereo,
+        Tank,
+        Torch,
+        Vehicle,
+        Wire
+    }
+}
